@@ -104,5 +104,5 @@ main {
     color:white;
 }
 #parts {
-    
+    overflow:scroll;
 }

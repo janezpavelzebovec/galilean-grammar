@@ -15,5 +15,9 @@ No work occurs in a vacuum, but instead builds upon the work that came before it
 
 **Stephen Kaufman** of Hebrew Union College for his work on the Comprehensive Aramaic Lexicon. The necessary process of comparing dialectical features for this volume has relied heavily upon the ability to quickly cross-reference keywords in context – which the CAL has made possible in mere moments. I was lucky enough to work on the CAL project for some years with Dr. Kaufman, and it is an invaluable resource for all in the field of Aramaic Studies.
 
+**George Kiraz** of Gorgias Press and Beth Mardutho for humoring a budding Syriac enthusiast all those years ago. Without the opportunities he provided for learning, I would not have the solid foundation upon which my knowledge of Aramaic languages is built upon today.
+
+**Mahlon H. Smith** of Rutgers University for introducing an undergrad, way back when, to the concept of the Historical Jesus, literary and textual criticism, and hours upon hours of deep discussions both during and outside of class about the Aramaic language in the context of the New Testament.
+
 **–Steve Caruso**  
 January 2017

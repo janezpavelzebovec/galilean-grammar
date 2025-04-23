@@ -1,6 +1,6 @@
 ---
 layout: chapter.njk
-chapter: 2
+chapter: 4
 title: Nouns & Adjectives
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: chapter.njk
-chapter: 7
+chapter: 8
 title: Numbers
 ---
 

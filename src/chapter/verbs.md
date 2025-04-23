@@ -1,6 +1,6 @@
 ---
 layout: chapter.njk
-chapter: 6
+chapter: 7
 title: The Verb
 ---
 

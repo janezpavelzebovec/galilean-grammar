@@ -1,6 +1,6 @@
 ---
 layout: chapter.njk
-chapter: 5
+chapter: 6
 title: Particles
 ---
 
