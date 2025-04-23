@@ -1,0 +1,17 @@
+{
+  "name": "galilean-grammar",
+  "version": "1.0.0",
+  "description": "A Grammar of Galilean Aramaic",
+  "scripts": {
+    "build": "npx @11ty/eleventy"
+  },
+  "keywords": [],
+  "author": "SteveCaruso",
+  "dependencies": {
+    "markdown-it-anchor": "^9.2.0",
+    "markdown-it-footnote": "^4.0.0"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

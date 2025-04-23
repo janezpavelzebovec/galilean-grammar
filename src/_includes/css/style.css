@@ -1,0 +1,108 @@
+/* Style Sheet */
+@font-face {
+    font-family: 'EB Garamond';
+    src: url('/fonts/EBGaramond-VariableFont_wght.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'EB Garamond';
+    src: url('/fonts/EBGaramond-Italic-VariableFont_wght.ttf')  format('truetype');
+    font-style: italic;
+}
+
+* {
+    box-sizing:border-box;
+}
+
+body {
+    font-family:'EB Garamond';
+    padding:0;
+    margin:0;
+    font-size:16pt;
+    text-align:justify;
+    background-color:#181713;
+}
+
+a.direct-link {
+    color:lightgray;
+}
+a.direct-link:hover {
+    color:black;
+}
+
+body :target {
+    background-color:rgb(225, 200, 160);
+    scroll-margin-top: 3em;
+    border-radius:4px;
+}
+
+/* Herodian Font w/Palestinian Vowels */
+@font-face {
+    font-family: 'Galilean';
+    src: url('/fonts/GalileanWPalestinianVowels.ttf')  format('truetype');
+}
+
+gal {
+    font-family: Galilean;
+    font-size:210%;
+    line-height:50%;
+}
+
+/* Footnotes */
+.footnote-ref {
+    font-size:70%;
+}
+.footnotes-sep {
+    margin-top:6em;
+}
+
+/* Tables */
+table {
+    max-width:100%;
+    margin-left:auto;
+    margin-right:auto;
+} 
+
+/* Chapters */
+body {
+    display:flex;
+    flex-direction:row;
+}
+#toc, main {
+    min-height:100vh;
+    padding:3vw;
+}
+nav {
+    width:40%;
+}
+main {
+    width:60%;
+    padding-right:10vw;
+    padding-left:5vw;
+    box-shadow:20px 0px 20px rgba(0,0,0,.33) inset;
+    background-color:white;
+    padding-bottom:6em;
+}
+#toc {
+    background-color:#312f27;
+    color:white;
+    position:sticky;
+    top:0;
+
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-items:center;
+}
+#toc h1,
+#toc h2,
+#toc h3,
+#toc h4 {
+    text-align:center;
+    margin:.75ex;
+}
+#toc a {
+    color:white;
+}
+#parts {
+    
+}
