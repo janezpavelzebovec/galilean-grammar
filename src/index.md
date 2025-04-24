@@ -57,7 +57,7 @@ This document is &copy; 2017-2025, but you may freely cite it with the following
 
 ## News
 
-> **April 24th 2025** -- The first pass of up to Chapter 4 is complete.
+> **April 24th 2025** -- The first pass of up to Chapter 5 is complete.
 
 > **April 23rd 2025** -- The domain name **galileanaramaic.com** has been registered.
 

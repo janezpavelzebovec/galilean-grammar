@@ -4,74 +4,58 @@ chapter: 5
 title: Possession
 ---
 
-\chapter{Possession}
-
 Galilean, like all other Aramaic languages, has no verb for "to have." Regardless, there are a number of ways to express possession, all of which involve the same set of suffixes.
 
-\section{Pronominal Suffixes}
+## Pronominal Suffixes
 
-In order to indicate ownership of a noun (\textit{my book, your book, his book, etc.}), one takes the noun in the Definite State, drops the final \Gal{-ah} and adds one of the following suffixes:
+In order to indicate ownership of a noun (*my book, your book, his book, etc.*), one takes the noun in the Definite State, drops the final {% gal "-ah" %} and adds one of the following suffixes:
 
-\begin{center}
-\noindent\begin{tabu} to 3in {l X[c] X[c] c X[c] X[c] c}
-~			&~&	\multicolumn{2}{c}{\textit{\textbf{Singular}}}		&~&	\multicolumn{2}{c}{\textit{\textbf{Plural}}}	\\
-1st Com.		&~&	\Gal{-I}		& \textit{-i}		&~&	\Gal{-aN}		& \textit{-an}	\\
-2nd Masc.		&~&	\Gal{-aK}		& \textit{-aḵ}	&~&	\Gal{-kON}	& \textit{-ḵon}	\\
-2nd Fem.		&~&	\Gal{-EK}		& \textit{-eḵ}	&~&	\footnotemark{}\Gal{-kEN}	& \textit{-ḵen}	\\
-3rd Masc.		&~&	\Gal{-Eh}		& \textit{-eh}	&~&	\Gal{-hON}	& \textit{-hon}	\\
-3rd Fem.		&~&	\Gal{-ah}		& \textit{-ah}	&~&	\Gal{-hEN}	& \textit{-hen}	\\
-\end{tabu}
-\end{center}
+|               |                 | Singular |                      | Plural |
+| :------------ | --------------: | :------- | -------------------: | :----- |
+| **1st Com.**  | {% gal "-I" %}  | *-i*     | {% gal "-aN" %}		| *-an*	 |
+| **2nd Masc.** | {% gal "-aK" %} | *-aḵ*    | {% gal "-kON" %}	    | *-ḵon* |
+| **2nd Fem.**  | {% gal "-EK" %} | *-eḵ*    | [^1]{% gal "-kEN" %}	| *-ḵen* |
+| **3rd Masc.** | {% gal "-Eh" %} | *-eh*    | {% gal "-hON" %}	    | *-hon* |
+| **3rd Fem.**  | {% gal "-ah" %} | *-ah*    | {% gal "-hEN" %}	    | *-hen* |
 
-\footnotetext{Kutscher in \textit{Encyclopedia Judaica} cites the unvocalized form \Gal{-wN}, however I cannot find a single example in the corpus.}
+[^1]: Kutscher in *Encyclopedia Judaica* cites the unvocalized form {% gal "-wN" %}, however I cannot find a single example in the corpus.
 
-Now since a \textbf{Masculine Plural Noun} ends in a diphthong, things are a bit different. In these cases, remove the \Gal{-ayyah} and add the following suffixes:
+Now since a **Masculine Plural Noun** ends in a diphthong, things are a bit different. In these cases, remove the {% gal "-ayyah" %} and add the following suffixes:
 
-\begin{center}
-\noindent\begin{tabu} to 3in {l X[c] X[c] c X[c] X[c] c}
-~			&~&	\multicolumn{2}{c}{\textit{\textbf{Singular}}}		&~&	\multicolumn{2}{c}{\textit{\textbf{Plural}}}	\\
-1st Com.		&~&	\Gal{-ayy}		& \textit{-ai}	&~&	\Gal{-EnAN}	& \textit{-enan}	\\
-2nd Masc.		&~&	\Gal{-EK}		& \textit{-eḵ}	&~&	\Gal{-EkON}	& \textit{-eḵon}	\\
-2nd Fem.		&~&	\Gal{-ayyK}	& \textit{-aiḵ}	&~&	\Gal{-EkEN}	& \textit{-eḵen}	\\
-3rd Masc.		&~&	\Gal{-OI}		& \textit{-oï}	&~&	\Gal{-EhON}	& \textit{-ehon}	\\
-3rd Fem.		&~&	\Gal{-Eh}		& \textit{-eh}	&~&	\Gal{-EhEN}	& \textit{-ehen}	\\
-\end{tabu}
-\end{center}
 
-\subsection{Nouns With Immovable Vowels}
+|               |                   | Singular |                   | Plural  |
+| :------------ | ----------------: | :------- | ----------------: | :------ |
+| **1st Com.**  | {% gal "-ayy" %}  | *-ai*	   | {% gal "-EnAN" %} | *-enan* |
+| **2nd Masc.** | {% gal "-EK" %}   | *-eḵ*    | {% gal "-EkON" %} | *-eḵon* |
+| **2nd Fem.**  | {% gal "-ayyK" %} | *-aiḵ*   | {% gal "-EkEN" %} | *-eḵen* |
+| **3rd Masc.** | {% gal "-OI" %}   | *-oï*    | {% gal "-EhON" %} | *-ehon* |
+| **3rd Fem.**  | {% gal "-Eh" %}   | *-eh*    | {% gal "-EhEN" %} | *-ehen* |
 
-\paragraph{Masculine}
+## Examples
 
-\begin{center}
-\noindent\begin{tabu} to \textwidth {r | l r | l}
-\textbf{Singular.}\\
-\Gal{rE\$I}		&	"my head"				&	\Gal{rE\$aN}	&	"our head" \\
-\Gal{rE\$aK}	&	"your (m.s.) head"		&	\Gal{rE\$kON}	&	"your (m.pl.) head" \\
-\Gal{rE\$EK}	&	"your (m.f.) head"		&	\Gal{rE\$kEN}	&	"your (f.pl.) head" \\
-\Gal{rE\$Eh}	&	"his head"				&	\Gal{rE\$hON}	&	"their (m.) head" \\
-\Gal{rE\$ah}	&	"her head"				&	\Gal{rE\$hEN}	&	"their (f.) head" \\
-\end{tabu}
-\end{center}
+**Masculine** ­— {% gal "rE$" %} "head"
 
-\begin{center}
-\noindent\begin{tabu} to \textwidth {r | l r | l}
-\textbf{Plural.}\\
-\Gal{rE\$ayy}	&	"my heads"			&	\Gal{rE\$EnaN}	&	"our heads" \\
-\Gal{rE\$EK}	&	"your (m.s.) heads"		&	\Gal{rE\$EkON}	&	"your (m.pl.) heads" \\
-\Gal{rE\$ayyK}	&	"your (m.f.) heads"		&	\Gal{rE\$EkEN}	&	"your (f.pl.) heads" \\
-\Gal{rE\$OI}	&	"his heads"			&	\Gal{rE\$EhON}&	"their (m.) head" \\
-\Gal{rE\$Eh}	&	"her heads"			&	\Gal{rE\$EhEN}	&	"their (f.) head" \\
-\end{tabu}
-\end{center}
+| Singular          |                    |                    |                      |
+| ----------------: | :----------------- | -----------------: | :------------------- |
+| {% gal "rE$I" %}  | "my head"	         | {% gal "rE$aN" %}  | "our head"           |
+| {% gal "rE$aK" %} | "your (m.s.) head" | {% gal "rE$kON" %} | "your (m\.pl.) head" |
+| {% gal "rE$EK" %} | "your (f.s.) head" | {% gal "rE$kEN" %} | "your (f\.pl.) head" |
+| {% gal "rE$Eh" %} | "his head"         | {% gal "rE$hON" %} | "their (m.) head"    |
+| {% gal "rE$ah" %} | "her head"         | {% gal "rE$hEN" %} | "their (f.) head"    |
+| &nbsp; ||||
+| Plural              |                     |                     |                       |
+| {% gal "rE$ayy" %}  | "my heads"	        | {% gal "rE$EnaN" %} | "our heads"           |
+| {% gal "rE$EK" %}   | "your (m.s.) heads" | {% gal "rE$EkON" %} | "your (m\.pl.) heads" |
+| {% gal "rE$ayyK" %} | "your (f.s.) heads" | {% gal "rE$EkEN" %} | "your (f\.pl.) heads" |
+| {% gal "rE$OI" %}   | "his heads"         | {% gal "rE$EhON" %} | "their (m.) heads"    |
+| {% gal "rE$Eh" %}   | "her heads"         | {% gal "rE$EhEN" %} | "their (f.) heads"    |
 
-\paragraph{Feminine}
+**Feminine** — {% gal "malkU" %} kingdom
 
-\begin{center}
-\noindent\begin{tabu} to \textwidth {r | l r | l}
-\Gal{malkUtI}		&	"my kingdom"			&	\Gal{malkUtaN}		&	"our kingdom" \\
-\Gal{malkUtaK}		&	"your (m.s.) kingdom"	&	\Gal{malkUtkON}	&	"your (m.pl.) kingdom" \\
-\Gal{malkUtEK}		&	"your (m.f.) kingdom"		&	\Gal{malkUtkEN}	&	"your (f.pl.) kingdom" \\
-\Gal{malkUtEh}		&	"his kingdom"			&	\Gal{malkUthON}	&	"their (m.) kingdom" \\
-\Gal{malkUtah}		&	"her kingdom"			&	\Gal{malkUthEN}	&	"their (f.) kingdom" \\
-\end{tabu}
-\end{center}
+| Singular             |                       |                       |                         |
+| -------------------: | :-------------------- | --------------------: | :---------------------- |
+| {% gal "malkUtI" %}  | "my kingdom"	       | {% gal "malkUtaN" %}  | "our kingdom"           |
+| {% gal "malkUtaK" %} | "your (m.s.) kingdom" | {% gal "malkUtkON" %} | "your (m\.pl.) kingdom" |
+| {% gal "malkUtEK" %} | "your (f.s.) kingdom" | {% gal "malkUtkEN" %} | "your (f\.pl.) kingdom" |
+| {% gal "malkUtEh" %} | "his kingdom"         | {% gal "malkUthON" %} | "their (m.) kingdom"    |
+| {% gal "malkUtah" %} | "her kingdom"         | {% gal "malkUthEN" %} | "their (f.) kingdom"    |
