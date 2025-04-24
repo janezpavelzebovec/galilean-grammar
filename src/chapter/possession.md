@@ -1,7 +1,7 @@
 ---
 layout: chapter.njk
 chapter: 5
-title: Posession
+title: Possession
 ---
 
 \chapter{Possession}
