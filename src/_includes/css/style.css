@@ -165,6 +165,7 @@ main {
         right:4vw;
         width:10vw;
         height:10vw;
+        overflow:visible;
     }
 
     #hamburger:before {
