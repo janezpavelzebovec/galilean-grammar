@@ -141,10 +141,16 @@ main {
         transition-duration:1s;
         position:fixed;
         top: 0px;
+        height:100vh;
+        overflow:scroll;
     }
     #toggle:checked ~ nav {
         transition-duration:1s;
         transform:translateY(-100vh);
+    }
+
+    #toc {
+        background-color:rgba(49, 47, 39, 0.97);
     }
 
     h1,h2,h3,h4,h5,h6 {
@@ -155,8 +161,8 @@ main {
         z-index:2000;
         display:block;
         position:fixed;
-        top:2vw;
-        right:2vw;
+        top:6vw;
+        right:4vw;
         width:10vw;
         height:10vw;
     }
@@ -172,7 +178,7 @@ main {
         right:0;
 
         width:10vw;
-        height:1vw;
+        height:1.5vw;
 
         background-color: white;
 
