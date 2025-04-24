@@ -57,6 +57,8 @@ This document is &copy; 2017-2025, but you may freely cite it with the following
 
 ## News
 
+> **April 24th 2025** -- The first pass of up to Chapter 4 is complete.
+
 > **April 23rd 2025** -- The domain name **galileanaramaic.com** has been registered.
 
 > **April 23rd 2025** -- The initial commits to the repository have been made. Translation from LaTeX syntax to Markdown is still underway.
