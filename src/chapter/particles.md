@@ -4,239 +4,200 @@ chapter: 6
 title: Particles
 ---
 
-\chapter{Particles}
+## The Proclitic Particles (*də-, lə-, bə-, wə-,* & *kə-*)
 
-\section{The Proclitic Particles (\textit{də-}, \textit{lə-}, \textit{bə-}, \textit{wə-}, \& \textit{kə-})}
-
-~\\
-\begin{tabu} to \textwidth {X[c] | X[c] | X[c] | X[c] | X[c]}
-\Gal{d:-}		&	\Gal{l:-}		&	\Gal{b:-}		&	\Gal{w;-}		&	\Gal{k:-}		\\
-\textit{də-}		&	\textit{lə-}		&	\textit{bə-}		&	\textit{wə-}		&	\textit{kə-}		\\
-\hline
-of,			&	to,			&	with,			&	and			&	like,			\\
-who,			&	for,			&	in			&	~			&	as,			\\
-because		&	unto			&	~			&	~			&	according to	\\
-\end{tabu}
-~\\
+| | | | | |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| {% gal "d:-" %} | {% gal "l:-" %} | {% gal "b:-" %} | {% gal "w;-" %} | {% gal "k:-" %} |
+| *də-*           | *lə-*           | *bə-*           | *wə-*           | *kə-*           |
+| of,             | to,             | with,           | and             | like,           |
+| who,            | for,            | in              |                 | as,             |
+| because         | unto            |                 |                 | according to    |
 
 The Proclitic Particles are particles that are letters that are prefixed upon words that bestow additional meaning. The majority of them are prepositions and conjunctions.
 
-\subsection{Notes About \textit{də-}}
+## Notes About *də-*
 
-Out of all of the Proclitic Particles, \textit{də-} is the most complex. It is a shortened form of the archaic \Gal{dI},\footnote{Which is only employed in translational texts, such as the Palestinian Targums.} it is a particle that has abundant use:
+Out of all of the Proclitic Particles, *də-* is the most complex. It is a shortened form of the archaic {% gal "dI" %},^[Which is only employed in translational texts, such as the Palestinian Targums.] it is a particle that has abundant use:
 
-\begin{enumerate}
-\item As a \textbf{Genitive Particle}, roughly equivalent to "of."\\
-~\\
-\Gal{sEprah d:malkah} \textit{sefráh \textbf{də}malkah} = "The book \textbf{of} the king."
+1. As a **Genitive Particle**, roughly equivalent to "of."
+> {% gal "sEprah d:malkah" %} *sefráh **də**malkah* = "The book **of** the king."
 
-\item As a \textbf{Relative Pronoun}, "who," "which," or "of whom."\\
-~\\
-\Gal{gabrah dA):tah}  \textit{gavrah \textbf{da}'əṯah} = "The man \textbf{who} came."
+2. As a **Relative Pronoun**, "who," "which," or "of whom."
+> {% gal "gabrah dA):tah" %}  *gavrah **da**'əṯah* = "The man *who* came."
 
-\item As a \textbf{Conjunction}, as "that," "so that," "because" or "for."\\
-~\\
-\Gal{xamEt dan:pal}  \textit{ḥaméṯ \textbf{da}nəfal} = "I saw \textbf{that} he fell".
+3. As a **Conjunction**, as "that," "so that," "because" or "for."
+> {% gal "xamEt dan:pal" %}  *ḥaméṯ **da**nəfal* = "I saw **that** he fell".
 
-\end{enumerate}
+## With Pronominal Suffixes
 
-\subsection{With Pronominal Suffixes}
+Out of the Proclitic Particles, only {% gal "l:-" %} and {% gal "b:-" %} can take on Pronominal Suffixes. The others are only found affixed to Nouns, Pronouns, and Verbs.
 
-Out of the Proclitic Particles, only \Gal{l:-} and \Gal{b:-} can take on Pronominal Suffixes. The others are only found affixed to Nouns, Pronouns, and Verbs.
+When {% gal "l:-" %} is combined with Pronominal Suffixes it represents the **Objective Pronoun**:
 
-When \Gal{l:-} is combined with Pronominal Suffixes it represents the \textbf{Objective Pronoun}:
+|               |                 | Singular |                   | Plural    |
+| :------------ | --------------: | :------- | ----------------: | :-------- |
+| **1st Com.**  | {% gal "lI" %}  | (to) me  | {% gal "laN" %}   | (to) us   |
+| **2nd Masc.** | {% gal "laK" %} | (to) you | {% gal "l:kON" %} | (to) you  |
+| **2nd Fem.**  | {% gal "lEK" %} | (to) you | {% gal "l:kEN" %} | (to) you  |
+| **3rd Masc.** | {% gal "lEh" %} | (to) him | {% gal "l:hON" %} | (to) them |
+| **3rd Fem.**  | {% gal "lah" %} | (to) her | {% gal "l:hEN" %} | (to) them |
 
-\begin{center}
-\noindent\begin{tabu} to 3.5in {l c X[r] | X[l] c X[r] | X[l] c}
-~			&~&	\multicolumn{2}{c}{\textit{Singular}}		&~&	\multicolumn{2}{c}{\textit{Plural}}	\\
-1st Com.		&~&	\Gal{lI}	&"(to)~me"			&~&	\Gal{laN}		&"(to)~us"	\\
-2nd Masc.		&~&	\Gal{laK}	&"(to)~you"			&~&	\Gal{l:kON}	&"(to)~you"	\\
-2nd Fem.		&~&	\Gal{lEK}	&"(to)~you"			&~&	\Gal{l:kEN}	&"(to)~you"	\\
-3rd Masc.		&~&	\Gal{lEh}	&"(to)~him"			&~&	\Gal{l:hON}	&"(to)~them"	\\
-3rd Fem.		&~&	\Gal{lah}	&"(to)~her"			&~&	\Gal{l:hEN}	&"(to)~them"	\\
-\end{tabu}
-\end{center}
+When {% gal "b:-" %} is combined with Pronominal Suffixes it represents **"with," "in,"** or **"through"** followed by the **Objective Pronoun**:
 
-When \Gal{b:-} is combined with Pronominal Suffixes it represents \textbf{"with," "in,"} or \textbf{"through"} followed by the \textbf{Objective Pronoun}:
-
-\begin{center}
-\noindent\begin{tabu} to 3.5in {l X[r] | X[l] c X[r] | X[l] c}
-~			&	\multicolumn{2}{c}{\textit{Singular}}		&~~~~&	\multicolumn{2}{c}{\textit{Plural}}	\\
-1st Com.		&	\Gal{bI}	&"with/in~me"		&~~~~&	\Gal{baN}		&"with/in~us"	\\
-2nd Masc.		&	\Gal{baK}	&"with/in~you"		&~~~~&	\Gal{b:kON}	&"with/in~you"	\\
-2nd Fem.		&	\Gal{bEK}	&"with/in~you"		&~~~~&	\Gal{b:kEN}	&"with/in~you"	\\
-3rd Masc.		&	\Gal{bEh}	&"with/in~him"		&~~~~&	\Gal{b:hON}	&"with/in~them"	\\
-3rd Fem.		&	\Gal{bah}	&"with/in~her"		&~~~~&	\Gal{b:hEN}	&"with/in~them"	\\
-\end{tabu}
-\end{center}
+|               |                 | Singular    |                   | Plural       |
+| :------------ | --------------: | :---------- | ----------------: | :----------- |
+| **1st Com.**  | {% gal "bI" %}  | with/in me  | {% gal "baN" %}   | with/in us   |
+| **2nd Masc.** | {% gal "baK" %} | with/in you | {% gal "b:kON" %} | with/in you  |
+| **2nd Fem.**  | {% gal "bEK" %} | with/in you | {% gal "b:kEN" %} | with/in you  |
+| **3rd Masc.** | {% gal "bEh" %} | with/in him | {% gal "b:hON" %} | with/in them |
+| **3rd Fem.**  | {% gal "bah" %} | with/in her | {% gal "b:hEN" %} | with/in them |
 
 
-\subsection{Multiple Prefixes}
+## Multiple Prefixes
 
 Multiple Proclitic Particles can be added to the same word to express a variety of meanings. For example:
 
-\Gal{malkah} $\rightarrow$ "the king"
+> {% gal "malkah" %} ⟶ "the king"
 
-\Gal{l:malkah} $\rightarrow$ "unto the king"
+> {% gal "l:malkah" %} ⟶ "unto the king"
 
-\Gal{dal:malkah} $\rightarrow$ "that which (is) unto the king"
+> {% gal "dal:malkah" %} ⟶ "that which (is) unto the king"
 
-\Gal{k:dal:malkah} $\rightarrow$ "like that which (is) unto the king"
+> {% gal "k:dal:malkah" %} ⟶ "like that which (is) unto the king"
 
-\Gal{wAk:dal:malkah} $\rightarrow$ "and like that which (is) unto the king"
+> {% gal "wAk:dal:malkah" %} ⟶ "and like that which (is) unto the king"
 
 etc.
 
-\subsection{The Rule of \textit{šəwa`}}
+## The Rule of *šəwa`*
 
-As you have probably noticed, as Proclitic Particles are added upon a word, the vowel alternates between \textit{šəwa`} and \textit{pəṯaḥ}. The rule of determining which is used can be condensed to "don't put two \textit{šəwa`}s in a row."\footnote{See \citet[§33, pp.107-110]{fassberg1990} for a full set of examples of this rule.} For example:
+As you have probably noticed, as Proclitic Particles are added upon a word, the vowel alternates between *šəwa\`* and *pəṯaḥ*. The rule of determining which is used can be condensed to "don't put two <i>šəwa`</i>s in a row."^[See [Fassberg (1990) §33, pp.107-110](/bibliography#fassberg1990) for a full set of examples of this rule.] For example:
 
-If the next syllable is a \textit{šəwa`}, use \textit{pəṯaḥ}. 
+If the next syllable is a *šəwa`*, use *pəṯaḥ*. 
 
-\Gal{m:lEK} "(a) king" $\rightarrow$ \Gal{lam:lEK} "to (a) king."
+> {% gal "m:lEK" %} "(a) king" ⟶ {% gal "lam:lEK" %} "to (a) king."
 
-But if the next syllable has any other vowel use \textit{šəwa`}.
+But if the next syllable has any other vowel use *šəwa`*.
 
-\Gal{malkah} "the king" $\rightarrow$ \Gal{l:malkah} "to the king."
+> {% gal "malkah" %} "the king" ⟶ {% gal "l:malkah" %} "to the king."
 
 As you can see from the examples in the previous section on Multiple Prefixes, you work backwards with each addition.
 
-\section{Independent Particles}
+## Independent Particles
 
-There are also a number of particles that are separate from other words. [More stuff here.]
+There are also a number of particles that are separate from other words. 
 
-\subsection{\textit{mən}}
+[More stuff here...]
 
-The particle \Gal{m:N} predominantly means "from" is used in a variety of ways that indicates a point of origin (\Gal{):nah m:N galIlah} = "I am from Galilee"). 
+## The Particle *mən*
 
-When it takes on suffixes, the vowel lengthens and the \textit{nun} doubles  (\Gal{mIn.-}) hence:
+The particle {% gal "m:N" %} predominantly means "from" is used in a variety of ways that indicates a point of origin ({% gal "):nah m:N galIlah" %} = "I am from Galilee"). 
 
-\begin{center}
-\noindent\begin{tabu} to \textwidth {r c c c c}
-~			&	\multicolumn{2}{c}{\textit{\textbf{Singular}}}	& \multicolumn{2}{c}{\textit{\textbf{Plural}}}			\\
-1st Com.		&	\Gal{mIn.I} 			& \textit{minní}		&\Gal{mIn>aN}				& \textit{minnán}	\\
-2nd	Masc.	&	\Gal{mIn>aK} 			& \textit{minnáḵ}	&\Gal{mIn.kON}			& \textit{minnəkón}	\\
-2nd	Fem.		&	\Gal{mIn.EK}			& \textit{minnéḵ}	&\Gal{mIn.kEN}				& \textit{minnəkén}	\\
-3rd	Masc.	&	\Gal{mIn.Eh} 			& \textit{minnéh}	&\Gal{mIn.hON}			& \textit{minnəhón}	\\
-3rd	Fem.		&	\Gal{mIn>ah} 			& \textit{minnáh}	&\Gal{mIn.hEN}			& \textit{minnəhén}	\\
-\end{tabu}
-\end{center}
+When it takes on suffixes, the vowel lengthens and the *nun* doubles  ({% gal "mIn.-" %}) hence:
 
-\noindent
-It can also be used in a \textbf{partitive} sense.
+|               |                    | Singular |                     | Plural    |
+| :------------ | -----------------: | :------- | ------------------: | :-------- |
+| **1st Com.**  | {% gal "mIn.I" %}  | from me  | {% gal "mIn>aN" %}  | from us   |
+| **2nd Masc.** | {% gal "mIn>aK" %} | from you | {% gal "mIn.kON" %} | from you  |
+| **2nd Fem.**  | {% gal "mIn.EK" %} | from you | {% gal "mIn.kEN" %} | from you  |
+| **3rd Masc.** | {% gal "mIn.Eh" %} | from him | {% gal "mIn.hON" %} | from them |
+| **3rd Fem.**  | {% gal "mIn>ah" %} | from her | {% gal "mIn.hEN" %} | from them |
 
-...\Gal{xad m:N )axOI} = "One from/of his brothers."
+It can also be used in a **partitive** sense.
 
-...\Gal{t:rayyiN m:N s:qah} = "Three from the sack."
+> {% gal "xad m:N )axOI" %} = "One from/of his brothers."
 
-\noindent
-It can also be used to express \textbf{superlatives} in the following manner.
+> {% gal "t:rayyiN m:N s:qah" %} = "Three from the sack."
 
-...\Gal{rab m:N} = "Bigger/greater than..."
+It can also be used to express **superlatives** in the following manner.
 
-...\Gal{y;tIr m:N} = "More than..."
+> {% gal "rab m:N" %} = "Bigger/greater than..."
 
-...\Gal{p:rah m:N} = "Less than..."\footnote{\Gal{p:rah} is a loan from the Greek \Grk{παρά}.}
+> {% gal "y;tIr m:N" %} = "More than..."
 
-...\Gal{z;(Or m:N} = "Smaller/less than..."
+> {% gal "p:rah m:N" %} = "Less than..."^[{% gal "p:rah" %} is a loan from the Greek παρά.]
 
-\noindent
-And to express something the "biggest" or "smallest" it's always "from" a plural or "from all" (\Gal{m:N kal}):
+> {% gal "z;(Or m:N" %} = "Smaller/less than..."
 
-...\Gal{rabah mIn.kON} = "The greatest among you."
+And to express something the "biggest" or "smallest" it's always "from" a plural or "from all" ({% gal "m:N kal" %}):
 
-...\Gal{z;(Or m:N kal} = "Smallest (of all)."
+> {% gal "rabah mIn.kON" %} = "The greatest among you."
+
+> {% gal "z;(OrAh m:N kal" %} = "Smallest (of all)."
 
 
-\subsection{\textit{`əm}}
+# The Particle *`əm*
 
-The particle \Gal{(:M} indicates "(together) with" or "at the time of." When combined with Pronominal Suffixes, the \Gal{m} doubles:
+The particle {% gal "(:M" %} indicates "(together) with" or "at the time of." When combined with Pronominal Suffixes, the {% gal "m" %} doubles:
 
-\begin{center}
-\noindent\begin{tabu} to 3.5in {l c X[r] | X[l] c X[r] | X[l] c}
-~			&~&	\multicolumn{2}{c}{\textit{Singular}}		&~&	\multicolumn{2}{c}{\textit{Plural}}	\\
-1st Com.		&~&	\Gal{(:m.I}		&"with~me"			&~&	\Gal{(:m>aN}	&"with~us"	\\
-2nd Masc.		&~&	\Gal{(:m>aK}	&"with~you"			&~&	\Gal{(:m.kON}	&"with~you"	\\
-2nd Fem.		&~&	\Gal{(:m.EK}	&"with~you"			&~&	\Gal{(:m.kEN}	&"with~you"	\\
-3rd Masc.		&~&	\Gal{(:m.Eh}	&"with~him"			&~&	\Gal{(:m.hON}	&"with~them"	\\
-3rd Fem.		&~&	\Gal{(:m>ah}	&"with~her"			&~&	\Gal{(:m.hEN}	&"with~them"	\\
-\end{tabu}
-\end{center}
+|               |                    | Singular |                     | Plural    |
+| :------------ | -----------------: | :------- | ------------------: | :-------- |
+| **1st Com.**  | {% gal "(:m.I" %}  | with me  | {% gal "(:m>aN" %}  | with us   |
+| **2nd Masc.** | {% gal "(:m>aK" %} | with you | {% gal "(:m.kON" %} | with you  |
+| **2nd Fem.**  | {% gal "(:m.EK" %} | from you | {% gal "(:m.kEN" %} | with you  |
+| **3rd Masc.** | {% gal "(:m.Eh" %} | with him | {% gal "(:m.hON" %} | with them |
+| **3rd Fem.**  | {% gal "(:m>ah" %} | with her | {% gal "(:m.hEN" %} | with them |
 
 
-\subsection{\textit{`al}}
+## The Particle *`al*
 
-The particle \Gal{(al} means "upon," "against," or "concerning" depending on context.
+The particle {% gal "(al" %} means "unto," "upon," "against," or "concerning" depending on context.
 
-\Gal{yAtEb (al kEpah} = "Sitting upon the rock."
+> {% gal "yAtEb (al kEpah" %} = "Sitting upon the rock."
 
-It, too, can take on Pronominal Suffixes, however make note that it takes their \textit{plural} forms.
+It, too, can take on Pronominal Suffixes, however make note that it takes their *plural* forms.
 
-\begin{center}
-\noindent\begin{tabu} to \textwidth {r c c c c}
-~			&	\multicolumn{2}{c}{\textit{\textbf{Singular}}}	& \multicolumn{2}{c}{\textit{\textbf{Plural}}}			\\
-1st Com.		&	\Gal{(alayy} 			& \textit{`alái}		&\Gal{(alEnaN}				& \textit{`alenan}	\\
-2nd	Masc.	&	\Gal{(alEK} 			& \textit{`alék}		&\Gal{(alEkON}				& \textit{`alekón}	\\
-2nd	Fem.		&	\Gal{(alayyK}			& \textit{`aláiḵ}		&\Gal{(alEkEN}				& \textit{`alekén}	\\
-3rd	Masc.	&	\Gal{(alOI} 			& \textit{`alóï}		&\Gal{(alEhON}				& \textit{`alehón}	\\
-3rd	Fem.		&	\Gal{(alEh} 			& \textit{`aléh}		&\Gal{(alEhEN}				& \textit{`alehén}	\\
-\end{tabu}
-\end{center}
+|               |                     | Singular |                     | Plural    |
+| :------------ | ------------------: | :------- | ------------------: | :-------- |
+| **1st Com.**  | {% gal "(alayy" %}  | upon me  | {% gal "(alEnaN" %} | upon us   |
+| **2nd Masc.** | {% gal "(alEK" %}   | upon you | {% gal "(alEkON" %} | upon you  |
+| **2nd Fem.**  | {% gal "(alayyK" %} | upon you | {% gal "(alEkEN" %} | upon you  |
+| **3rd Masc.** | {% gal "(alOI" %}   | upon him | {% gal "(alEhON" %} | upon them |
+| **3rd Fem.**  | {% gal "(alEh" %}   | upon her | {% gal "(alEhEN" %} | upon them |
 
+## The Particle *la'*
 
-\subsection{\textit{la'}}
+The particle {% gal "la)" %} is the Negative Particle, representing "no" or "not." It is used as a generic negative:
 
-The particle \Gal{la)} is the Negative Particle, representing "no" or "not." It is used as a generic negative:
+> {% gal "):mar lEh la)" %} = "He said to him, `No!'"
 
-\Gal{):mar lEh la)} = "He said to him, `No!'"
-
-\noindent
 And can be casually used in simple sentences:
 
-\Gal{la) s:par hU)} or \Gal{la) hU) s:par} = "It's not a book."
+> {% gal "la) s:par hU)" %} or {% gal "la) hU) s:par" %} = "It's not a book."
 
-\noindent
 When negating Verbs, it usually comes directly before:
 
-\Gal{la) ):tah lI} = "He didn't come to me."
+> {% gal "la) ):tah lI" %} = "He didn't come to me."
 
-\noindent
-When combined with the word \Gal{k:lOM} ("something") as in \Gal{la) k:lOM} it means "nothing," or can be used to strengthen a negation:
+When combined with the word {% gal "k:lOM" %} ("something") as in {% gal "la) k:lOM" %} it means "nothing," or can be used to strengthen a negation:
 
-\Gal{la) ):mar lEh k:lOM} = "He didn't say anything to him." or "He didn't speak to him at all."
+> {% gal "la) ):mar lEh k:lOM" %} = "He didn't say anything to him." or "He didn't speak to him at all."
 
-\noindent
-When used in the series \Gal{w:la)} ...\Gal{la)} it means "neither... nor":
+When used in the series {% gal "w:la)" %} ...{% gal "la)" %} it means "neither... nor":
 
-\Gal{la) d:N w:la) d:N} = "Neither this, nor that."
+> {% gal "la) d:N w:la) d:N" %} = "Neither this, nor that."
 
-\noindent
-When combined with the particle \Gal{d:-} it means "without":
+When combined with the particle {% gal "d:-" %} it means "without":
 
-\Gal{d:la) mazON} = "Without food."
+> {% gal "d:la) mazON" %} = "Without food."
 
 And it is used in a variety of other ways in combination with other particles as described in their own sections.
 
+## The Particle *diḏ-*
 
+The particle {% gal "dId-" %} originates from the classical {% gal "dIl-" %}^[literally, "That which is to..."] and is only used when a Possessive Suffix, for whatever reason, won't work. It indicates simple possession where there is no Noun, or where using a Possessive Suffix would be awkward such as on a loan-word whose ending wouldn't fit normal Declensions.
 
-\subsection{\textit{diḏ-}}
+|               |                   | Singular |                    | Plural |
+| :------------ | ----------------: | :------- | -----------------: | :----- |
+| **1st Com.**  | {% gal "dIdI" %}  | mine     | {% gal "dIdaN" %}  | ours   |
+| **2nd Masc.** | {% gal "dIdaK" %} | yours    | {% gal "dIdkON" %} | yours  |
+| **2nd Fem.**  | {% gal "dIdEK" %} | yours    | {% gal "dIdkEN" %} | yours  |
+| **3rd Masc.** | {% gal "dIdEh" %} | his      | {% gal "dIdhON" %} | theirs |
+| **3rd Fem.**  | {% gal "dIdah" %} | hers     | {% gal "dIdhEN" %} | theirs |
 
-The particle \Gal{dId-} originates from the classical \Gal{dIl-}\footnote{literally, "That which is to..."} and is only used when a Possessive Suffix, for some reason, won't work. It indicates simple possession where there is no Noun, or where using a Possessive Suffix would be awkward such as on a loan-word whose ending wouldn't fit normal Declensions.
+## The Particle *kal*
 
-\begin{center}
-\noindent\begin{tabu} to 3.5in {l c X[r] | X[l] c X[r] | X[l] c}
-~			&~&	\multicolumn{2}{c}{\textit{Singular}}		&~&	\multicolumn{2}{c}{\textit{Plural}}	\\
-1st Com.		&~&	\Gal{dIdI}		&"mine"			&~&	\Gal{dIdaN}	&"ours"	\\
-2nd Masc.		&~&	\Gal{dIdaK}	&"yours"			&~&	\Gal{dIdkON}	&"yours"	\\
-2nd Fem.		&~&	\Gal{dIdEK}	&"yours"			&~&	\Gal{dIdkEN}	&"yours"	\\
-3rd Masc.		&~&	\Gal{dIdEh}	&"his"			&~&	\Gal{dIdhON}	&"theirs"	\\
-3rd Fem.		&~&	\Gal{dIdah}	&"hers"			&~&	\Gal{dIdhEN}	&"theirs"	\\
-\end{tabu}
-\end{center}
+The particle {% gal "kal" %} *kal* means "all."
 
-
-\subsection{\textit{kal}}
-
-The particle \Gal{kal} \textit{kal} means "all."
-
-It can take the Definite ending like a Masculine Declension C Noun, lengthening the \Gal{•a} vowel to \Gal{O} and it becomes \Gal{kOlAh} \textit{kolah} meaning "everything."\footnote{This is in contrast to other Aramaic dialects where "everything" is usually some form of \Gal{kl md(M} or \Gal{klmdM}.}
+It can take the Definite ending like a Masculine Declension C Noun, lengthening the {% gal "•a" %} vowel to {% gal "O" %} and it becomes {% gal "kOlAh" %} *kolah* meaning "everything."^[This is in contrast to other Aramaic dialects where "everything" is usually some form of {% gal "kl md(M" %} or {% gal "klmdM" %}.]
