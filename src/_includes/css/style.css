@@ -67,6 +67,9 @@ body {
     display:flex;
     flex-direction:row;
 }
+nav {
+    min-height:100vh;
+}
 #toc, main {
     min-height:100vh;
     padding:3vw;
@@ -105,4 +108,86 @@ main {
 }
 #parts {
     overflow:scroll;
+}
+
+#hamburger {
+    display:none;
+}
+
+#toggle {
+    display:none;
+}
+
+@media screen and (max-width: 1000px) {
+
+    body {
+        display:block;
+    }
+
+    table {
+        font-size:12pt;
+    }
+
+    main,nav {
+        position:absolute;
+        top:0px;
+        width:100vw;
+        min-height:90vh;
+        overflow:scroll;
+    }
+
+    nav {
+        z-index:1000;
+        transition-duration:1s;
+        position:fixed;
+        top: 0px;
+    }
+    #toggle:checked ~ nav {
+        transition-duration:1s;
+        transform:translateY(-100vh);
+    }
+
+    h1,h2,h3,h4,h5,h6 {
+        font-size:24pt;
+    }
+
+    #hamburger {
+        z-index:2000;
+        display:block;
+        position:fixed;
+        top:2vw;
+        right:2vw;
+        width:10vw;
+        height:10vw;
+    }
+
+    #hamburger:before {
+        transition-duration:1s;
+        content: "";
+        position: absolute;
+
+        border-radius:5px;
+
+        top:0;
+        right:0;
+
+        width:10vw;
+        height:1vw;
+
+        background-color: white;
+
+        box-shadow: 
+            0  4vw 0 white,
+            0  8vw 0 white;
+    }
+
+    #toggle:checked ~ #hamburger:before {
+        transition-duration:1s;
+        background-color: black;
+
+        box-shadow: 
+            0  4vw 0 black,
+            0  8vw 0 black;
+    }
+
 }
