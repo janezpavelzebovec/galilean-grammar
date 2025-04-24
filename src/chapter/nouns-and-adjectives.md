@@ -4,162 +4,119 @@ chapter: 4
 title: Nouns & Adjectives
 ---
 
-\chapter{Nouns \& Adjectives}
+Like Latin and Greek, the Nouns and Adjectives in Aramaic are declined. *Unlike* Latin and Greek, they are not declined to indicate the part of speech, but rather a combination of three things:
 
-Like Latin and Greek, the Nouns and Adjectives in Aramaic are declined. \emph{Unlike} Latin and Greek, they are not declined to indicate the part of speech, but rather a combination of three things:
+1. **Gender**; either *Masculine* or *Feminine*.^[In Galilean these are referred to as \Gal{d:kar} *dəḵar* for Masculine and \Gal{n:qbah} *nəqbah* for Feminine.There is no neuter case as there is in Greek or Latin.]
 
-\begin{enumerate}
-\item \textbf{Gender}; either \textit{Masculine} or \textit{Feminine}.\footnote{In Galilean these are referred to as \Gal{d:kar} \textit{dəḵar} for Masculine and \Gal{n:qbah} \textit{nəqbah} for Feminine.There is no neuter case as there is in Greek or Latin.}
-\item \textbf{Number}; either \textit{Singular} or \textit{Plural}.\footnote{}
-\item \textbf{State}; the \textit{Absolute}, the \textit{Definite}, and the \textit{Construct}.
-\end{enumerate}
+1. **Number**; either *Singular* or *Plural*.^[Like other contemporary Aramaic languages, Galilean does not have a dual number outside of vestigial use for pairs of body parts and similar.]
+
+1. **State**; the *Absolute*, the *Definite*, and the *Construct*.
 
 There is no structural difference between Nouns and Adjectives other than how they are employed in a sentence. Adjectives follow the Nouns they describe and match in Gender, Number, and State.
 
-It is necessary to note that the States are \emph{traditionally} referred to in Aramaic grammars as the "Absolute" the "Emphatic" and the "Construct" respectively. I've chosen to break with this tradition as the issue of definiteness is much more pronounced in Galilean Aramaic (and other Western dialects) than it is in other Aramaic languages.
+It is necessary to note that the States are *traditionally* referred to in Aramaic grammars as the "Absolute" the "Emphatic" and the "Construct" respectively. I've chosen to break with this tradition as the issue of definiteness is much more pronounced in Galilean Aramaic (and other Western dialects) than it is in other Aramaic languages.
 
-The \textbf{Absolute State} is the basic form of a Noun, and represents the most basic expression of a word in an indefinite state. In simple sentences, it is very often used as a Predicate. [more here] \textit{(Example: "(a) cat")}
+The **Absolute State** is the basic form of a Noun, and represents the most basic expression of a word in an indefinite state. In simple sentences, it is very often used as a Predicate. [more here] *(Example: "(a) cat")*
 
-The \textbf{Definite State} expresses definiteness much like one would expect from the English "the," and is the direct cognate of the Hebrew \textit{ha-} and Arabic \textit{al-}. It is also used for abstract concepts and, in direct speech, as a vocative. \textit{(Example: "the cat" or "cat!")}
+The **Definite State** expresses definiteness much like one would expect from the English "the," and is the direct cognate of the Hebrew *ha-* and Arabic *al-*. It is also used for abstract concepts and, in direct speech, as a vocative. *(Example: "the cat" or "cat!")*
 
-The \textbf{Construct State} is essentially used to create compound words or established phrases. It also acts as a genitive. \textit{(Example: "(the) cat of ...")}
+The **Construct State** is essentially used to create compound words or established phrases. It also acts as a genitive. *(Example: "(the) cat of ...")*
 
-\section{The Basic Declension Endings}
+## The Basic Declension Endings
 
-\noindent
 The following table outlines the basic declensional endings:
 
-\begin{center}
-\noindent\begin{tabu} to \textwidth {l c c c c}
-~		&	\multicolumn{2}{c}{Masculine}			&	\multicolumn{2}{c}{Feminine}			\\
-~		&	\textit{Singular}		&	\textit{Plural}	&	\textit{Singular}		&	\textit{Plural}	\\
-Absolute	&	\Gal{-}			&	\Gal{-IN}		&	\Gal{-ah}			&	\Gal{-aN}		\\
-%~		&	\textit{-}			&	\textit{-ín}		&	\textit{-áh}			&	\textit{-án}		\\
-Definite	&	\Gal{-ah}			&	\Gal{-ayyah}	&	\Gal{-tah}			&	\Gal{-atah}	\\
-%~		&	\textit{-áh}			&	\textit{-ayyáh}	&	\textit{-táh} or \textit{-ṯáh}		&	\textit{-aṯáh}	\\
-Construct	&	\Gal{-}			&	\Gal{-E}		&	\Gal{-at}			&	\Gal{-at}		\\
-%~		&	\textit{-}			&	\textit{-é}		&	\textit{-áṯ}			&	\textit{-áṯ}		\\
-\end{tabu}
-\end{center}
+|        	| Masculine       | 	               | Feminine         | 		          |
+| --------- | :-------------: | :----------------: | :--------------: | :---------------: |
+|		 	| *Singular*      | *Plural*           | *Singular*       | *Plural*          |
+| Absolute  | {% gal "-" %}   | {% gal "-IN" %}    | {% gal "-ah" %}  | {% gal "-aN" %}   |
+| Definite  | {% gal "-ah" %} | {% gal "-ayyah" %} | {% gal "-tah" %} | {% gal "-atah" %} |
+| Construct | {% gal "-" %}   | {% gal "-E" %}     | {% gal "-at" %}  | {% gal "-at" %}   |
 
-A very strong distinguishing feature of "good" Galilean is that final \textit{-a} is represented by \Gal{h} rather than by \Gal{)} as it was with most other contemporary dialects.\footnote{In older Aramaic dialects, it was \Gal{h} for the feminine Absolute, and \Gal{)} for the Emphatic. Eastern dialects resolved both to \Gal{)} where Galilean and Samaritan resolved both to \Gal{h}.} However, it can be either in the wild due to copyist emendations.
+A very strong distinguishing feature of "good" Galilean is that final *-a* is represented by \Gal{h} rather than by \Gal{)} as it was with most other contemporary dialects.^[In older Aramaic dialects, it was \Gal{h} for the feminine Absolute, and \Gal{)} for the Emphatic. Eastern dialects resolved both to \Gal{)} where Galilean and Samaritan resolved both to \Gal{h}.] However, it can be either in the wild due to copyist emendations.
 
-Due to how Nouns and Adjectives are constructed from their roots, these endings change slightly and words they are applied to take different vowels depending on a few factors. However, these changes usually follow a few basic patterns (the Declensions outlined in the next few sections).\footnote{For a comprehensive illustration of how Proto-Aramaic Noun patterns evolved into their Palestinian Aramaic counterparts, see \citet[§57-115, pp.137-160]{fassberg1990}.}
+Due to how Nouns and Adjectives are constructed from their roots, these endings change slightly and words they are applied to take different vowels depending on a few factors. However, these changes usually follow a few basic patterns (the Declensions outlined in the next few sections).^[For a comprehensive illustration of how Proto-Aramaic Noun patterns evolved into their Palestinian Aramaic counterparts, see Fassberg (1990) [§57-115, pp.137-160](/bibliography#fassberg1990).]
 
-\section{Declension U: Unchangeable Vowels}
+## Declension U: Unchangeable Vowels
 
 Nouns of this class simply add the suffixes on to their stem without any further modification. Here are the endings attached to the word \Gal{+ab} (m-u,f-u) "good" or "good thing":
 
-\begin{center}
-\noindent\begin{tabu} to 3in {l X[c] c c X[c] c c}
-~		&~&	\multicolumn{5}{c}{\textbf{Masculine}}			\\
-~		&~&	\multicolumn{2}{c}{\textit{\textbf{Singular}}}&~&	\multicolumn{2}{c}{\textit{\textbf{Plural}}}	\\
-Absolute	&~&	\Gal{+ab}		& \textit{ṭáḇ}			&~&	\Gal{+abIN}	& \textit{ṭaḇín}	\\
-Definite	&~&	\Gal{+abah}	& \textit{ṭaḇáh}			&~&	\Gal{+abayyah}	& \textit{ṭaḇaiyáh}	\\
-Construct	&~&	\Gal{+ab}		& \textit{ṭáḇ}			&~&	\Gal{+abE}	& \textit{ṭaḇé}	\\
-~		\\
-~		&~&	\multicolumn{5}{c}{\textbf{Feminine}}			\\
-~		&~&	\multicolumn{2}{c}{\textit{\textbf{Singular}}}&~&	\multicolumn{2}{c}{\textit{\textbf{Plural}}}	\\
-Absolute	&~&	\Gal{+abah}	& \textit{ṭaḇáh}			&~&	\Gal{+abaN}	& \textit{ṭaḇán}		\\
-Definite	&~&	\Gal{+abtah}	& \textit{ṭaḇtáh}			&~&	\Gal{+abatah}	& \textit{ṭaḇaṯáh}		\\
-Construct	&~&	\Gal{+abat}	& \textit{ṭaḇáṯ}			&~&	\Gal{+abat}	& \textit{ṭaḇáṯ}		\\
-\end{tabu}
-\end{center}
+| | | | | |
+| :------------ | -----------------: | :------------- | -------------------: | :----------- |
+| **Masculine** |                    | ***Singular*** |                      | ***Plural*** |
+| Absolute		| {% gal "+ab" %}    | *ṭav*          | {% gal "+abIN" %}    | *ṭavín*      | 
+| Definite		| {% gal "+abah" %}  | *ṭaváh*        | {% gal "+abayyah" %} | *ṭavaiyáh*   | 
+| Construct		| {% gal "+ab" %}    | *ṭav*          | {% gal "+abE" %}     | *ṭavé*       |
+| &nbsp;        |                    |                |                      |              | 
+|**Feminine**   |            		 | ***Singular*** |                      | ***Plural*** |
+| Absolute		| {% gal "+abah" %}  | *ṭaváh*        | {% gal "+abaN" %}    | *ṭaván*      | 
+| Definite		| {% gal "+abtah" %} | *ṭavtáh*       | {% gal "+abatah" %}  | *ṭavaṯáh*    | 
+| Construct		| {% gal "+abat" %}  | *ṭavaṯ*        | {% gal "+abat" %}    | *ṭavaṯ*      | 
 
-\section{Declension C: Changable Vowels}
+## Declension C: Changable Vowels
 
 Nouns of this declension shift and/or lengthen their initial vowel in the Definite state and in Plural forms. For example, for single syllable Nouns there is \Gal{p:M}, \Gal{pEmah} (m-c) "mouth":
 
-\begin{center}
-\noindent\begin{tabu} to 3in {l X[c] c c X[c] c c}
-~		&~&	\multicolumn{5}{c}{\textbf{Masculine}}			\\
-~		&~&	\multicolumn{2}{c}{\textit{\textbf{Singular}}}&~&	\multicolumn{2}{c}{\textit{\textbf{Plural}}}	\\
-Absolute	&~&	\Gal{p:M}		& \textit{pəm}			&~&	\Gal{pEmIN}		& \textit{pemín}	\\
-Definite	&~&	\Gal{pEmah}	& \textit{pemah}		&~&	\Gal{pEmayyah}	& \textit{pemaiyah}	\\
-Construct	&~&	\Gal{p:M}		& \textit{pəm}			&~&	\Gal{pEmE}		& \textit{pemé}	\\
-\end{tabu}
-\end{center}
+| | | | | |
+| :------------ | -----------------: | :------------- | -------------------: | :----------- |
+| **Masculine** |                    | ***Singular*** |                      | ***Plural*** |
+| Absolute		| {% gal "p:M" %}    | *pəm*          | {% gal "pEmIN" %}    | *pemín*      | 
+| Definite		| {% gal "pEmah" %}  | *pemah*        | {% gal "pEmayyah" %} | *pemaiyah*   | 
+| Construct		| {% gal "p:M" %}    | *pəm*          | {% gal "pEmE" %}     | *pemé*       |
 
-And for multi-syllable Nouns there is \Gal{g:bar}, \Gal{gUbrah} (m-c) "man"\footnote{Sometimes the lengthened vowel for \Gal{g:bar} is \Gal{Xa} (i.e. \Gal{gabrah}, \Gal{gabrIN}, etc.).}:
+And for multi-syllable Nouns there is \Gal{g:bar}, \Gal{gUbrah} (m-c) "man"^[Sometimes the lengthened vowel for \Gal{g:bar} is \Gal{Xa} (i.e. \Gal{gabrah}, \Gal{gabrIN}, etc.).]:
 
-\begin{center}
-\noindent\begin{tabu} to 3in {l X[c] c c X[c] c c}
-~		&~&	\multicolumn{5}{c}{\textbf{Masculine}}			\\
-~		&~&	\multicolumn{2}{c}{\textit{\textbf{Singular}}}&~&	\multicolumn{2}{c}{\textit{\textbf{Plural}}}	\\
-Absolute	&~&	\Gal{g:bar}	& \textit{gəḇár}			&~&	\Gal{gUbrIN}		& \textit{guḇrín}	\\
-Definite	&~&	\Gal{gUbrah}	& \textit{guḇráh}		&~&	\Gal{gUbrayyah}	& \textit{guḇraiyáh}	\\
-Construct	&~&	\Gal{g:bar}	& \textit{gəḇár}			&~&	\Gal{gUbrE}		& \textit{guḇré}	\\
-%~		\\
-%~		&~&	\multicolumn{5}{c}{\textbf{Feminine}}			\\
-%~		&~&	\multicolumn{2}{c}{\textit{\textbf{Singular}}}&~&	\multicolumn{2}{c}{\textit{\textbf{Plural}}}	\\
-%Absolute	&~&	\Gal{+abah}	& \textit{ṭaváh}			&~&	\Gal{+abaN}	& \textit{ṭaván}		\\
-%Definite	&~&	\Gal{+abtah}	& \textit{ṭavtáh}			&~&	\Gal{+abatah}	& \textit{ṭavaṯáh}		\\
-%Construct	&~&	\Gal{+abat}	& \textit{ṭaváṯ}			&~&	\Gal{+abat}	& \textit{ṭaváṯ}		\\
-\end{tabu}
-\end{center}
+| | | | | |
+| :------------ | -----------------: | :------------- | --------------------: | :----------- |
+| **Masculine** |                    | ***Singular*** |                       | ***Plural*** |
+| Absolute		| {% gal "g:bar" %}  | *gəḇár*        | {% gal "gUbrIN" %}    | *guḇrín*     | 
+| Definite		| {% gal "gUbrah" %} | *guḇráh*       | {% gal "gUbrayyah" %} | *guḇraiyáh*  | 
+| Construct		| {% gal "g:bar" %}  | *gəḇár*        | {% gal "gUbrE" %}     | *guḇré*      |
 
-\section{Declension D: Geminate Nouns}
+## Declension D: Geminate Nouns
 
-Some Nouns have consonants that are doubled or "Geminate." These are letters pronounced twice: Once at the end of the previous syllable, and again at the start of the next syllable. This letter is usually marked with a \textit{dəḡeš} \Gal{•.} and if part of the \textit{bəḡaḏkəfaṯ} is pronounced \textit{qəše}.
+Some Nouns have consonants that are doubled or "Geminate." These are letters pronounced twice: Once at the end of the previous syllable, and again at the start of the next syllable. This letter is usually marked with a *dəḡeš* \Gal{•.} and if part of the *bəḡaḏkəfaṯ* is pronounced *qəše*.
 
-Two letters: Here is \Gal{y;M},\Gal{y;m>ah} \textit{yəm},\textit{yəmmáh} "sea" (m-d) [and something else]:
+Two letters: Here is \Gal{y;M},\Gal{y;m>ah} *yəm*,*yəmmáh* "sea" (m-d) [and something else]:
 
-\begin{center}
-\noindent\begin{tabu} to 3in {l X[c] c c X[c] c c}
-~		&~&	\multicolumn{5}{c}{\textbf{Masculine}}			\\
-~		&~&	\multicolumn{2}{c}{\textit{\textbf{Singular}}}&~&	\multicolumn{2}{c}{\textit{\textbf{Plural}}}		\\
-Absolute	&~&	\Gal{y;M}		& \textit{yəm}			&~&	\Gal{y;m.IN}		& \textit{yəmmín}		\\
-Definite	&~&	\Gal{y;m>ah}	& \textit{yəmmáh}		&~&	\Gal{y;m>ayyah}	& \textit{yəmmáiyah}		\\
-Construct	&~&	\Gal{y;M}		& \textit{yəm}			&~&	\Gal{y;m.E}		& \textit{yəmmé}		\\
-%~		\\
-%~		&~&	\multicolumn{5}{c}{\textbf{Feminine}}			\\
-%~		&~&	\multicolumn{2}{c}{\textit{\textbf{Singular}}}&~&	\multicolumn{2}{c}{\textit{\textbf{Plural}}}		\\
-%Absolute	&~&	\Gal{)Im.rah}	& \textit{'imməráh}		&~&	\Gal{)Im.rIN}		& \textit{'immərán}		\\
-%Definite	&~&	\Gal{)Ima>rtah}	& \textit{'immartáh}		&~&	\Gal{)Im.ratah}		& \textit{'imməráṯah}		\\
-%Construct	&~&	\Gal{)Im.rat}	& \textit{'imməráṯ}		&~&	\Gal{)Im.rat}		& \textit{'imməráṯ}		\\
-\end{tabu}
-\end{center}
+| | | | | |
+| :------------ | -----------------: | :------------- | --------------------: | :----------- |
+| **Masculine** |                    | ***Singular*** |                       | ***Plural*** |
+| Absolute		| {% gal "y;M" %}    | *yəm*          | {% gal "y;m.IN" %}    | *yəmmín*     | 
+| Definite		| {% gal "y;m>ah" %} | *yəmmáh*       | {% gal "y;m>ayyah" %} | *yəmmáiyah*  | 
+| Construct		| {% gal "y;M" %}    | *yəm*          | {% gal "y;m.E" %}     | *yəmmé*      |
 
-Three letters: Here is \Gal{)Im>ar} \textit{'immár} "lamb" (m-d) and \Gal{)Im.rah} \textit{'imməráh} "lamb" (f-d):
+Three letters: Here is \Gal{)Im>ar} *'immár* "lamb" (m-d) and \Gal{)Im.rah} *'imməráh* "lamb" (f-d):
 
-\begin{center}
-\noindent\begin{tabu} to 3in {l X[c] c c X[c] c c}
-~		&~&	\multicolumn{5}{c}{\textbf{Masculine}}			\\
-~		&~&	\multicolumn{2}{c}{\textit{\textbf{Singular}}}&~&	\multicolumn{2}{c}{\textit{\textbf{Plural}}}		\\
-Absolute	&~&	\Gal{)Im>ar}	& \textit{'immár}			&~&	\Gal{)Im.rIN}		& \textit{'immərín}		\\
-Definite	&~&	\Gal{)Im.rah}	& \textit{'imməráh}		&~&	\Gal{)Im.rayyah}	& \textit{'imməráiyah}	\\
-Construct	&~&	\Gal{)Im>ar}	& \textit{'immár}			&~&	\Gal{)Im.rE}		& \textit{'imməré}		\\
-~		\\
-~		&~&	\multicolumn{5}{c}{\textbf{Feminine}}			\\
-~		&~&	\multicolumn{2}{c}{\textit{\textbf{Singular}}}&~&	\multicolumn{2}{c}{\textit{\textbf{Plural}}}		\\
-Absolute	&~&	\Gal{)Im.rah}	& \textit{'imməráh}		&~&	\Gal{)Im.rIN}		& \textit{'immərán}		\\
-Definite	&~&	\Gal{)Ima>rtah}	& \textit{'immartáh}		&~&	\Gal{)Im.ratah}		& \textit{'imməráṯah}		\\
-Construct	&~&	\Gal{)Im.rat}	& \textit{'imməráṯ}		&~&	\Gal{)Im.rat}		& \textit{'imməráṯ}		\\
-\end{tabu}
-\end{center}
+| | | | | |
+| :------------ | --------------------: | :------------- | ---------------------: | :------------ |
+| **Masculine** |                       | ***Singular*** |                        | ***Plural***  |
+| Absolute		| {% gal ")Im>ar" %}    | *'immár*       | {% gal ")Im.rIN" %}    | *'immərín*    | 
+| Definite		| {% gal ")Im.rah" %}   | *'imməráh*     | {% gal ")Im.rayyah" %} | *'imməráiyah* | 
+| Construct		| {% gal ")Im>ar" %}    | *'immár*       | {% gal ")Im.rE" %}     | *'imməré*     |
+| &nbsp;        |                       |                |                        |               | 
+|**Feminine**   |            		    | ***Singular*** |                        | ***Plural***  |
+| Absolute		| {% gal ")Im.rah" %}   | *'imməráh*     | {% gal ")Im.rIN" %}    | *'immərán*    | 
+| Definite		| {% gal ")Ima>rtah" %} | *'immartáh*    | {% gal ")Im.ratah" %}  | *'imməráṯah*  | 
+| Construct		| {% gal ")Im.rat" %}   | *'imməráṯ*     | {% gal ")Im.rat" %}    | *'imməráṯ*    | 
 
-Sometimes the doubled letter is a consonantal \textit{y} or \textit{w} such as with \Gal{kah:wwah},\Gal{kahawwtah} "window."
+Sometimes the doubled letter is a consonantal *y* or *w* such as with {% gal "kah:wwah" %}, {% gal "kahawwtah" %} "window."
 
-
-\section{Declension Y: III-y Nouns}
+## Declension Y: III-y Nouns
 
 Nouns that end in vowels often have their vowels become consonantal in the Definite and Plural forms. For example \Gal{+alE},\Gal{+alyyah} (m-y), and \Gal{+alyyah},\Gal{+alItah} (f-y) "youth" or "young one."
 
-\begin{center}
-\noindent\begin{tabu} to 3in {l X[c] c c X[c] c c}
-~		&~&	\multicolumn{5}{c}{\textbf{Masculine}}			\\
-~		&~&	\multicolumn{2}{c}{\textit{\textbf{Singular}}}&~&	\multicolumn{2}{c}{\textit{\textbf{Plural}}}		\\
-Absolute	&~&	\Gal{+alE} 	& \textit{ṭalé}			&~&	\Gal{+alayyiN}		& \textit{ṭalaiyin}		\\
-Definite	&~&	\Gal{+alyyah}	& \textit{ṭalyah}			&~&	\Gal{+alayyah}		& \textit{ṭalaiyah}	\\
-Construct	&~&	\Gal{+alE} 	& \textit{ṭalé}			&~&	\Gal{+alayy}		& \textit{ṭalai}		\\
-~		\\
-~		&~&	\multicolumn{5}{c}{\textbf{Feminine}}			\\
-~		&~&	\multicolumn{2}{c}{\textit{\textbf{Singular}}}&~&	\multicolumn{2}{c}{\textit{\textbf{Plural}}}		\\
-Absolute	&~&	\Gal{+alyyah}	& \textit{ṭalyah}			&~&	\Gal{+alyyaN}		& \textit{ṭalyan}		\\
-Definite	&~&	\Gal{+alItah}	& \textit{ṭaliṯah}			&~&	\Gal{+alyyatah}		& \textit{ṭalyaṯah}		\\
-Construct	&~&	\Gal{+alyyat}	& \textit{ṭalyaṯ}			&~&	\Gal{+alyyat}		& \textit{ṭalyaṯ}		\\
-\end{tabu}
-\end{center}
+| | | | | |
+| :------------ | ------------------: | :------------- | --------------------: | :----------- |
+| **Masculine** |                     | ***Singular*** |                       | ***Plural*** |
+| Absolute		| {% gal "+alE" %}    | *ṭalé*         | {% gal "+alayyiN" %}  | *ṭalaiyin*   | 
+| Definite		| {% gal "+alyyah" %} | *ṭalyah*       | {% gal "+alayyah" %}  | *ṭalaiyah*   | 
+| Construct		| {% gal "+alE" %}    | *ṭalé*         | {% gal "+alayy" %}    | *ṭalai*      |
+| &nbsp;        |                     |                |                       |              | 
+|**Feminine**   |            		  | ***Singular*** |                       | ***Plural*** |
+| Absolute		| {% gal "+alyyah" %} | *ṭalyah*       | {% gal "+alyyaN" %}   | *ṭalyan*     |
+| Definite		| {% gal "+alItah" %} | *'ṭaliṯah*     | {% gal "+alyyatah" %} | *ṭalyaṯah*   | 
+| Construct		| {% gal "+alyyat" %} | *ṭalyaṯ*       | {% gal "+alyyat" %}   | *ṭalyaṯ*     | 
 
 \section{Declension I: III-y Nouns}
 

@@ -132,7 +132,9 @@ Most of the time "in the wild," *dəḡeš* and *rafe* are more or less used onl
 The cognate to the apostrophe in Palestinian notation is the {% gal "'" %} *gəreš* (or "geresh"; plural {% gal "''" %} {% gal "ger\$IN" %} *geršin*). It is generally used in three ways:
 
 1. When letters are omitted (like an English apostrophe). In many Rabbinic texts it's common to find {% gal ")'" %} = {% gal ")mr" %} *'əmar* ("he said").
+
 1. To indicate numerals. {% gal "y'" %} = 10, {% gal "t''k" %} = 500. (See the chapter on Numerals for more.)
+
 1. To indicate an acronym or initialism.
 
 In later Galilean texts, *geršin* are sometimes placed around words in other languages or upon the first and last letters of quoted words much like quotation marks.
