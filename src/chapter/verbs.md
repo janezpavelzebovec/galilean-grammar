@@ -4,6 +4,7 @@ chapter: 7
 title: The Verb
 ---
 
+## (This Chapter Has Not Been Reformatted Yet)
 
 \chapter{The Verb}
 

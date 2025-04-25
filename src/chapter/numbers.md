@@ -4,6 +4,8 @@ chapter: 8
 title: Numbers
 ---
 
+## (This Chapter Has Not Been Reformatted Yet)
+
 \chapter{Numbers}
 
 \section{Cardinal Numbers}
