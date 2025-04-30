@@ -35,23 +35,23 @@ Out of the Proclitic Particles, only {% gal "l:-" %} and {% gal "b:-" %} can tak
 
 When {% gal "l:-" %} is combined with Pronominal Suffixes it represents the **Objective Pronoun**:
 
-|               |                 | Singular |                   | Plural    |
-| :------------ | --------------: | :------- | ----------------: | :-------- |
-| **1st Com.**  | {% gal "lI" %}  | (to) me  | {% gal "laN" %}   | (to) us   |
-| **2nd Masc.** | {% gal "laK" %} | (to) you | {% gal "l:kON" %} | (to) you  |
-| **2nd Fem.**  | {% gal "lEK" %} | (to) you | {% gal "l:kEN" %} | (to) you  |
-| **3rd Masc.** | {% gal "lEh" %} | (to) him | {% gal "l:hON" %} | (to) them |
-| **3rd Fem.**  | {% gal "lah" %} | (to) her | {% gal "l:hEN" %} | (to) them |
+|               |                  | Singular |                   | Plural    |
+| :------------ | ---------------: | :------- | ----------------: | :-------- |
+| **1st Com.**  | {% gal "lI" %}   | (to) me  | {% gal "laN" %}   | (to) us   |
+| **2nd Masc.** | {% gal "laK" %}  | (to) you | {% gal "l:kON" %} | (to) you  |
+| **2nd Fem.**  | {% gal "lEK" %}  | (to) you | {% gal "l:kEN" %} | (to) you  |
+| **3rd Masc.** | {% gal "lEh" %}  | (to) him | {% gal "l:hON" %} | (to) them |
+| **3rd Fem.**  | {% gal "lah]" %} | (to) her | {% gal "l:hEN" %} | (to) them |
 
 When {% gal "b:-" %} is combined with Pronominal Suffixes it represents **"with," "in,"** or **"through"** followed by the **Objective Pronoun**:
 
-|               |                 | Singular    |                   | Plural       |
-| :------------ | --------------: | :---------- | ----------------: | :----------- |
-| **1st Com.**  | {% gal "bI" %}  | with/in me  | {% gal "baN" %}   | with/in us   |
-| **2nd Masc.** | {% gal "baK" %} | with/in you | {% gal "b:kON" %} | with/in you  |
-| **2nd Fem.**  | {% gal "bEK" %} | with/in you | {% gal "b:kEN" %} | with/in you  |
-| **3rd Masc.** | {% gal "bEh" %} | with/in him | {% gal "b:hON" %} | with/in them |
-| **3rd Fem.**  | {% gal "bah" %} | with/in her | {% gal "b:hEN" %} | with/in them |
+|               |                  | Singular    |                   | Plural       |
+| :------------ | ---------------: | :---------- | ----------------: | :----------- |
+| **1st Com.**  | {% gal "bI" %}   | with/in me  | {% gal "baN" %}   | with/in us   |
+| **2nd Masc.** | {% gal "baK" %}  | with/in you | {% gal "b:kON" %} | with/in you  |
+| **2nd Fem.**  | {% gal "bEK" %}  | with/in you | {% gal "b:kEN" %} | with/in you  |
+| **3rd Masc.** | {% gal "bEh" %}  | with/in him | {% gal "b:hON" %} | with/in them |
+| **3rd Fem.**  | {% gal "bah]" %} | with/in her | {% gal "b:hEN" %} | with/in them |
 
 
 ## Multiple Prefixes
@@ -96,13 +96,13 @@ The particle {% gal "m:N" %} predominantly means "from" is used in a variety of 
 
 When it takes on suffixes, the vowel lengthens and the *nun* doubles  ({% gal "mIn.-" %}) hence:
 
-|               |                    | Singular |                     | Plural    |
-| :------------ | -----------------: | :------- | ------------------: | :-------- |
-| **1st Com.**  | {% gal "mIn.I" %}  | from me  | {% gal "mIn>aN" %}  | from us   |
-| **2nd Masc.** | {% gal "mIn>aK" %} | from you | {% gal "mIn.kON" %} | from you  |
-| **2nd Fem.**  | {% gal "mIn.EK" %} | from you | {% gal "mIn.kEN" %} | from you  |
-| **3rd Masc.** | {% gal "mIn.Eh" %} | from him | {% gal "mIn.hON" %} | from them |
-| **3rd Fem.**  | {% gal "mIn>ah" %} | from her | {% gal "mIn.hEN" %} | from them |
+|               |                     | Singular |                     | Plural    |
+| :------------ | ------------------: | :------- | ------------------: | :-------- |
+| **1st Com.**  | {% gal "mIn.I" %}   | from me  | {% gal "mIn>aN" %}  | from us   |
+| **2nd Masc.** | {% gal "mIn>aK" %}  | from you | {% gal "mIn.kON" %} | from you  |
+| **2nd Fem.**  | {% gal "mIn.EK" %}  | from you | {% gal "mIn.kEN" %} | from you  |
+| **3rd Masc.** | {% gal "mIn.Eh" %}  | from him | {% gal "mIn.hON" %} | from them |
+| **3rd Fem.**  | {% gal "mIn>ah]" %} | from her | {% gal "mIn.hEN" %} | from them |
 
 It can also be used in a **partitive** sense.
 
@@ -131,13 +131,13 @@ And to express something the "biggest" or "smallest" it's always "from" a plural
 
 The particle {% gal "(:M" %} indicates "(together) with" or "at the time of." When combined with Pronominal Suffixes, the {% gal "m" %} doubles:
 
-|               |                    | Singular |                     | Plural    |
-| :------------ | -----------------: | :------- | ------------------: | :-------- |
-| **1st Com.**  | {% gal "(:m.I" %}  | with me  | {% gal "(:m>aN" %}  | with us   |
-| **2nd Masc.** | {% gal "(:m>aK" %} | with you | {% gal "(:m.kON" %} | with you  |
-| **2nd Fem.**  | {% gal "(:m.EK" %} | from you | {% gal "(:m.kEN" %} | with you  |
-| **3rd Masc.** | {% gal "(:m.Eh" %} | with him | {% gal "(:m.hON" %} | with them |
-| **3rd Fem.**  | {% gal "(:m>ah" %} | with her | {% gal "(:m.hEN" %} | with them |
+|               |                     | Singular |                     | Plural    |
+| :------------ | ------------------: | :------- | ------------------: | :-------- |
+| **1st Com.**  | {% gal "(:m.I" %}   | with me  | {% gal "(:m>aN" %}  | with us   |
+| **2nd Masc.** | {% gal "(:m>aK" %}  | with you | {% gal "(:m.kON" %} | with you  |
+| **2nd Fem.**  | {% gal "(:m.EK" %}  | from you | {% gal "(:m.kEN" %} | with you  |
+| **3rd Masc.** | {% gal "(:m.Eh" %}  | with him | {% gal "(:m.hON" %} | with them |
+| **3rd Fem.**  | {% gal "(:m>ah]" %} | with her | {% gal "(:m.hEN" %} | with them |
 
 
 ## The Particle *`al*
@@ -188,13 +188,13 @@ And it is used in a variety of other ways in combination with other particles as
 
 The particle {% gal "dId-" %} originates from the classical {% gal "dIl-" %}^[literally, "That which is to..."] and is only used when a Possessive Suffix, for whatever reason, won't work. It indicates simple possession where there is no Noun, or where using a Possessive Suffix would be awkward such as on a loan-word whose ending wouldn't fit normal Declensions.
 
-|               |                   | Singular |                    | Plural |
-| :------------ | ----------------: | :------- | -----------------: | :----- |
-| **1st Com.**  | {% gal "dIdI" %}  | mine     | {% gal "dIdaN" %}  | ours   |
-| **2nd Masc.** | {% gal "dIdaK" %} | yours    | {% gal "dIdkON" %} | yours  |
-| **2nd Fem.**  | {% gal "dIdEK" %} | yours    | {% gal "dIdkEN" %} | yours  |
-| **3rd Masc.** | {% gal "dIdEh" %} | his      | {% gal "dIdhON" %} | theirs |
-| **3rd Fem.**  | {% gal "dIdah" %} | hers     | {% gal "dIdhEN" %} | theirs |
+|               |                    | Singular |                    | Plural |
+| :------------ | -----------------: | :------- | -----------------: | :----- |
+| **1st Com.**  | {% gal "dIdI" %}   | mine     | {% gal "dIdaN" %}  | ours   |
+| **2nd Masc.** | {% gal "dIdaK" %}  | yours    | {% gal "dIdkON" %} | yours  |
+| **2nd Fem.**  | {% gal "dIdEK" %}  | yours    | {% gal "dIdkEN" %} | yours  |
+| **3rd Masc.** | {% gal "dIdEh" %}  | his      | {% gal "dIdhON" %} | theirs |
+| **3rd Fem.**  | {% gal "dIdah]" %} | hers     | {% gal "dIdhEN" %} | theirs |
 
 ## The Particle *kal*
 

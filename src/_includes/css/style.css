@@ -38,10 +38,11 @@ body :target {
 /* Herodian Font w/Palestinian Vowels */
 @font-face {
     font-family: 'Galilean';
-    src: url('/fonts/GalileanWPalestinianVowels.ttf')  format('truetype');
+    src: url('/fonts/GalHerodPalVow9.ttf')  format('truetype');
 }
 
 gal {
+    display:inline-block;
     font-family: Galilean;
     font-size:210%;
     line-height:50%;
@@ -118,7 +119,36 @@ main {
     display:none;
 }
 
+table td, table th {
+    padding-left:.1ex;
+    padding-right:1ex;
+}
+
+small {
+    font-size:70%;
+}
+
+#mobileTitle {
+    display:none;
+    font-size:50%;
+    border:1px solid black;
+    padding-left:1em;
+    padding-right:1em;
+    border-radius:15px;
+    text-align:center;
+}
+#mobileTitle h1 {
+    font-size:18px;
+}
+#mobileTitle h4 {
+    font-size:12px;
+}
+
 @media screen and (max-width: 1000px) {
+
+    #mobileTitle {
+        display:inline-block;
+    }
 
     body {
         display:block;

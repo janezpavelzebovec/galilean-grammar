@@ -123,7 +123,7 @@ When a letter is doubled in pronunciation and/or where one of the *bəḡaḏkə
 
 When one of the *bəḡaḏkəfaṯ* is pronounced *rafe* where one would expect it to be *qəše* it is noted with a *dəḡeš* turned 90 degrees clockwise ({% gal "X]" %}) like {% gal "malk]Utah" %} *malḵuṯah* "the kingdom."
 
-This *rafe* mark can also be found on {% gal "h" %} when it appears at the end of a word but is pronounced as a noticable *h* rather than simply indicating a final vowel ({% gal "h]" %}) like {% gal "k:tabah]" %} \textit{kəṯavaẖ} "her book."\footnote{This use "in the wild" is uncertain as it only possibly occurs twice. See [Fassberg (1990) §3d p.23](/bibliography#fassberg1990) and follow the merry chase of endnotes.}
+This *rafe* mark can also be found on {% gal "h" %} when it appears at the end of a word but is pronounced as a noticable *h* rather than simply indicating a final vowel ({% gal "h]" %}) like {% gal "k:tabah]" %} *kəṯavaẖ* "her book."^[This use "in the wild" is uncertain as it only possibly occurs twice. See [Fassberg (1990) §3d p.23](/bibliography#fassberg1990) and follow the merry chase of endnotes.]
 
 Most of the time "in the wild," *dəḡeš* and *rafe* are more or less used only when it's necessary to disambiguate and are otherwise omitted.
 

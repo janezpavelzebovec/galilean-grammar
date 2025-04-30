@@ -20,7 +20,7 @@ April 2025
 
 ## Support the Project
 
-If you would like to help support the project, you can [support my KoFi page](https://ko-fi.com/stevecaruso). The more folk who subscribe there, the more time I will be able to dedicate to this project, and others like it.
+If you would like to help support the project, you can [visit my KoFi page](https://ko-fi.com/stevecaruso). The more folk who subscribe there, the more time I will be able to dedicate to this project, and others like it. Supporters, past and present, will be listed in the [Dedication](/dedication#project-supporters).
 
 ## Copyright
 
@@ -56,6 +56,10 @@ This document is &copy; 2017-2025, but you may freely cite it with the following
 </script>
 
 ## News
+
+> **April 29th 2025** -- First pass of Chapter 7 (Verbs) is complete.
+
+> **April 28th 2025** -- The original book font has been fixed and now all Aramaic text should display properly.
 
 > **April 24th 2025** -- The first pass of up to Chapter 6 is complete.
 

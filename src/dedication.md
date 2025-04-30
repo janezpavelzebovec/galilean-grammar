@@ -21,3 +21,21 @@ No work occurs in a vacuum, but instead builds upon the work that came before it
 
 **–Steve Caruso**  
 January 2017
+
+&nbsp;
+
+&nbsp;
+
+------
+
+# Project Supporters
+
+An additional dedication of the modern version of this work is necessary. These folk have made significant contributions to the furtherance of this project and deserve recognition. If you would like to see your name on this list, [you can support the project here](https://ko-fi.com/stevecaruso/tiers).
+
+## Pillars of the Community ({% gal "(mwdyyh" %})
+
+- Mark Wood
+
+## Fellows ({% gal "xbryyh" %})
+
+## Friends ({% gal "rxmyyh" %})

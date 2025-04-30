@@ -6,13 +6,13 @@ title: Pronouns
 
 ## Personal Pronouns
 
-|               | Singular                       ||     | Plural                          ||      | 
-| ------------- | --------------------: | :------ | :-: | --------------------: | :------- | :--: |
-| **1st Com.**  | [^1]{% gal "):nah" %} | *'ənáh* | I   | {% gal "):naN" %}     | *'ənán*  | We   |
-| **2nd Masc.** | {% gal ")at." %}      | *'át*   | You | {% gal ")at.ON" %}    | *'attón* | You  |
-| **2nd Fem.**  | [^2]{% gal ")at." %}  | *'át*   | You | {% gal ")at.EN" %}    | *'attén* | You  |
-| **3rd Masc.** | {% gal "hU)" %}       | *hú'*   | He  | [^3]{% gal "hEnUN" %} | *henún*  | They |
-| **3rd Fem.**  | {% gal "hI)" %}       | *hí'*   | She | [^4]{% gal "hEnIN" %} | *henín*  | They |
+|               | Singular                       ||     | Plural                           ||      | 
+| ------------- | --------------------: | :------ | :-: | ---------------------: | :-------- | :--: |
+| **1st Com.**  | [^1]{% gal "):nah" %} | *'ənáh* | I   | {% gal "):naN" %}      | *'ənán*   | We   |
+| **2nd Masc.** | {% gal ")at." %}      | *'át*   | You | {% gal ")at.ON" %}     | *'attón*  | You  |
+| **2nd Fem.**  | [^2]{% gal ")at." %}  | *'át*   | You | {% gal ")at.EN" %}     | *'attén*  | You  |
+| **3rd Masc.** | {% gal "hU)" %}       | *hú'*   | He  | [^3]{% gal "hEn.UN" %} | *hennún*  | They |
+| **3rd Fem.**  | {% gal "hI)" %}       | *hí'*   | She | [^4]{% gal "hEn.IN" %} | *hennín*  | They |
 
 [^1]: Variant: {% gal ")n)" %}.
 [^2]: Rarely the archaic {% gal ")ty" %}.
@@ -20,7 +20,7 @@ title: Pronouns
 [^4]: Variants: {% gal "hnyN" %}, {% gal ")ynyN" %}, vocalized once in the Piyutim as *'inin*, but this is probably due to the repetition of *çəre*.
 
 
-In informal speech and writing, when given prefixes (see [Proclitic Particles](/chapter/particles)) the first letter of the Personal Pronoun is dropped (e.g. {% gal "wnh" %} *wənah* = {% gal "w:)nah" %} *wə'ənah*, {% gal "dynwN" %} *denún* = {% gal "d:hEnUN" %} *dəhenún*, etc.).
+In informal speech and writing, when given prefixes (see [Proclitic Particles](/chapter/particles)) the first letter of the Personal Pronoun is dropped (e.g. {% gal "wnh" %} *wənah* = {% gal "w:)nah" %} *wə'ənah*, {% gal "dynwN" %} *dennún* = {% gal "d:hEn.UN" %} *dəhennún*, etc.).
 
 Where it is common in other dialects and goes counter to Galilean's largely phonetic system of spelling, *very rarely* one will see {% gal "hU)" %} or {% gal "hI)" %} without its final {% gal ")" %}. It only tends to happen with prefixes mentioned above, and this otherwise would be the only strong example of a "silent letter" employed in Galilean spelling.
 

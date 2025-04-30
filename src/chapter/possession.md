@@ -10,13 +10,13 @@ Galilean, like all other Aramaic languages, has no verb for "to have." Regardles
 
 In order to indicate ownership of a noun (*my book, your book, his book, etc.*), one takes the noun in the Definite State, drops the final {% gal "-ah" %} and adds one of the following suffixes:
 
-|               |                 | Singular |                      | Plural |
-| :------------ | --------------: | :------- | -------------------: | :----- |
-| **1st Com.**  | {% gal "-I" %}  | *-i*     | {% gal "-aN" %}		| *-an*	 |
-| **2nd Masc.** | {% gal "-aK" %} | *-aḵ*    | {% gal "-kON" %}	    | *-ḵon* |
-| **2nd Fem.**  | {% gal "-EK" %} | *-eḵ*    | [^1]{% gal "-kEN" %}	| *-ḵen* |
-| **3rd Masc.** | {% gal "-Eh" %} | *-eh*    | {% gal "-hON" %}	    | *-hon* |
-| **3rd Fem.**  | {% gal "-ah" %} | *-ah*    | {% gal "-hEN" %}	    | *-hen* |
+|               |                  | Singular |                      | Plural |
+| :------------ | ---------------: | :------- | -------------------: | :----- |
+| **1st Com.**  | {% gal "-I" %}   | *-i*     | {% gal "-aN" %}		 | *-an*  |
+| **2nd Masc.** | {% gal "-aK" %}  | *-aḵ*    | {% gal "-kON" %}	 | *-ḵon* |
+| **2nd Fem.**  | {% gal "-EK" %}  | *-eḵ*    | [^1]{% gal "-kEN" %} | *-ḵen* |
+| **3rd Masc.** | {% gal "-Eh" %}  | *-eh*    | {% gal "-hON" %}	 | *-hon* |
+| **3rd Fem.**  | {% gal "-ah]" %} | *-ah*    | {% gal "-hEN" %}	 | *-hen* |
 
 [^1]: Kutscher in *Encyclopedia Judaica* cites the unvocalized form {% gal "-wN" %}, however I cannot find a single example in the corpus.
 
