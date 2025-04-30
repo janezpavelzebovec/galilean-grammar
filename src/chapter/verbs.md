@@ -4,8 +4,6 @@ chapter: 7
 title: The Verb
 ---
 
-## (This Chapter Has Not Been Fully Reformatted Yet)
-
 Verbs in Galilean are sometimes confusing when contrasted with other dialects as well-established forms in Eastern Aramaic dialects evolved differently in Western dialects, which became even more pronounced in Galilean. 
 
 [More examples.]
