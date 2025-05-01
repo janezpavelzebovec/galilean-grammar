@@ -57,6 +57,8 @@ This document is &copy; 2017-2025, but you may freely cite it with the following
 
 ## News
 
+> **May 1st 2025** -- First pass of Chapter 8 (Numbers) is complete.
+
 > **April 29th 2025** -- First pass of Chapter 7 (Verbs) is complete.
 
 > **April 28th 2025** -- The original book font has been fixed and now all Aramaic text should display properly.
