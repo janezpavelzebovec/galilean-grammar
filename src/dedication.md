@@ -39,3 +39,7 @@ An additional dedication of the modern version of this work is necessary. These 
 ## Fellows ({% gal "xbryyh" %})
 
 ## Friends ({% gal "rxmyyh" %})
+
+## One-Time Supporters
+
+ - MADCreative

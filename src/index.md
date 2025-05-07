@@ -20,7 +20,7 @@ April 2025
 
 ## Support the Project
 
-If you would like to help support the project, you can [visit my KoFi page](https://ko-fi.com/stevecaruso). The more folk who subscribe there, the more time I will be able to dedicate to this project, and others like it. Supporters, past and present, will be listed in the [Dedication](/dedication#project-supporters).
+If you would like to help support the project, you can [visit my KoFi page](https://ko-fi.com/stevecaruso/tiers). The more folk who subscribe there, the more time I will be able to dedicate to this project, and others like it. Supporters, past and present, will be listed in the [Dedication](/dedication#project-supporters).
 
 ## Copyright
 
