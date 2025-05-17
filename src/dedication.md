@@ -40,8 +40,11 @@ An additional dedication of the modern version of this work is necessary. These 
 
 ## Friends ({% gal "rxmyyh" %})
 
-- Charles Faisant
+- Charles Faisant **†**
 
 ## One-Time Supporters
 
  - MADCreative
+
+
+> **†** = Assisted with editing.

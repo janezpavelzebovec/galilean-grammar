@@ -77,7 +77,7 @@ The following paradigms outline the basic use of the tenses along with their bas
 
 |			| Singular               | Plural                   |
 | :-------- | :--------------------: | :----------------------: |
-| 1st Com.  | {% gal "XaX]XEt" %}    | {% gal "X:XaXnaN" %}     |
+| 1st Com.  | {% gal "XaXX]Et" %}    | {% gal "X:XaXnaN" %}     |
 | 2nd Com.  | [^4]{% gal "X:XaXt" %} | [^5]{% gal "X:XaXtON" %} |
 | 3rd Masc. | {% gal "X:XaX" %}      | [^6]{% gal "X:XaXUN" %}  |
 | 3rd Fem.  | {% gal "XaXX\}at" %}   | {% gal "X:XaXEN" %}      |
