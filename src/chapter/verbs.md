@@ -211,7 +211,7 @@ The Infinitive usually has the same Stem Vowel as the Future and has a variety o
 | 2nd Masc.      | {% gal "t:ktOb" %}   | *təḵtóv*   | {% gal "t:kt:bUN" %} | *təḵtəvún* |
 | 2nd Fem.       | {% gal "t:kt:bEN" %} | *təḵtəvén* | ↑                    | ↑          |
 | 3rd Masc.      | {% gal "y;ktOb" %}   | *yəḵtóv*   | {% gal "y;kt:bUN" %} | *yəḵtəvún* |
-| 3rd Fem.       | {% gal "y;ktOb" %}   | *təḵtóv*   | {% gal "y:kt:baN" %} | *yəḵtəván* |
+| 3rd Fem.       | {% gal "t:ktOb" %}   | *təḵtóv*   | {% gal "y:kt:baN" %} | *yəḵtəván* |
 | **Imperative** |                      |            |                      |            |
 | 2nd Masc.      | {% gal "ktOb" %}     | *kəṯóv*    | {% gal "k:tObUN" %}  | *kəṯóvun*  |
 | 2nd Fem.       | {% gal "ktObI" %}    | *kəṯóvi*   | ↑                    | ↑          |

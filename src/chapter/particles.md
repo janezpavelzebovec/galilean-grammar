@@ -24,7 +24,7 @@ Out of all of the Proclitic Particles, *də-* is the most complex. It is a short
 > {% gal "sEprah d:malkah" %} *sefráh **də**malkah* = "The book **of** the king."
 
 2. As a **Relative Pronoun**, "who," "which," or "of whom."
-> {% gal "gabrah dA):tah" %}  *gavrah **da**'əṯah* = "The man *who* came."
+> {% gal "gUbrah dA):tah" %}  *guvrah **da**'əṯah* = "The man *who* came."
 
 3. As a **Conjunction**, as "that," "so that," "because" or "for."
 > {% gal "xamEt dan:pal" %}  *ḥaméṯ **da**nəfal* = "I saw **that** he fell".

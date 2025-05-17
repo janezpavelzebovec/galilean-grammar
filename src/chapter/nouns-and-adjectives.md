@@ -96,7 +96,7 @@ Three letters: Here is {% gal ")Im>ar" %} *'immár* "lamb" (m-d) and {% gal ")Im
 | Construct		| {% gal ")Im>ar" %}    | *'immár*       | {% gal ")Im.rE" %}     | *'imməré*     |
 | &nbsp;        |                       |                |                        |               | 
 |**Feminine**   |            		    | ***Singular*** |                        | ***Plural***  |
-| Absolute		| {% gal ")Im.rah" %}   | *'imməráh*     | {% gal ")Im.rIN" %}    | *'immərán*    | 
+| Absolute		| {% gal ")Im.rah" %}   | *'imməráh*     | {% gal ")Im.raN" %}    | *'immərán*    | 
 | Definite		| {% gal ")Ima>rtah" %} | *'immartáh*    | {% gal ")Im.ratah" %}  | *'imməráṯah*  | 
 | Construct		| {% gal ")Im.rat" %}   | *'imməráṯ*     | {% gal ")Im.rat" %}    | *'imməráṯ*    | 
 
