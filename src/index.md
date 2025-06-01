@@ -58,7 +58,7 @@ This document is &copy; 2017-2025, but you may freely cite it with the following
 ## News
 
 
-> **May 31 2025** -- A mess of typos corrected thanks to the keen eye of Charles Faisant. :-)
+> **May 31 2025** -- A mess of typos corrected thanks to the keen eye of Charles Faisant. :-) Also add new [Research Articles](/articles) section for old AramaicNT.org articles.
 
 > **May 6th 2025** -- First pass of the entire work is complete! There are still errors, missing pieces, and dragons to tend to.
 
