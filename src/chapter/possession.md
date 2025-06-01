@@ -35,7 +35,7 @@ Now since a **Masculine Plural Noun** ends in a diphthong, things are a bit diff
 
 **Masculine** ­— {% gal "rE$" %} "head"
 
-| Singular          |                    |                    |                      |
+| **Singular**      |                    |                    |                      |
 | ----------------: | :----------------- | -----------------: | :------------------- |
 | {% gal "rE$I" %}  | "my head"	         | {% gal "rE$aN" %}  | "our head"           |
 | {% gal "rE$aK" %} | "your (m.s.) head" | {% gal "rE$kON" %} | "your (m\.pl.) head" |
@@ -43,7 +43,7 @@ Now since a **Masculine Plural Noun** ends in a diphthong, things are a bit diff
 | {% gal "rE$Eh" %} | "his head"         | {% gal "rE$hON" %} | "their (m.) head"    |
 | {% gal "rE$ah" %} | "her head"         | {% gal "rE$hEN" %} | "their (f.) head"    |
 | &nbsp; ||||
-| Plural              |                     |                     |                       |
+| **Plural**          |                     |                     |                       |
 | {% gal "rE$ayy" %}  | "my heads"	        | {% gal "rE$EnaN" %} | "our heads"           |
 | {% gal "rE$EK" %}   | "your (m.s.) heads" | {% gal "rE$EkON" %} | "your (m\.pl.) heads" |
 | {% gal "rE$ayyK" %} | "your (f.s.) heads" | {% gal "rE$EkEN" %} | "your (f\.pl.) heads" |
@@ -52,10 +52,46 @@ Now since a **Masculine Plural Noun** ends in a diphthong, things are a bit diff
 
 **Feminine** — {% gal "malkU" %} kingdom
 
-| Singular             |                       |                       |                         |
+| **Singular**         |                       |                       |                         |
 | -------------------: | :-------------------- | --------------------: | :---------------------- |
 | {% gal "malkUtI" %}  | "my kingdom"	       | {% gal "malkUtaN" %}  | "our kingdom"           |
 | {% gal "malkUtaK" %} | "your (m.s.) kingdom" | {% gal "malkUtkON" %} | "your (m\.pl.) kingdom" |
 | {% gal "malkUtEK" %} | "your (f.s.) kingdom" | {% gal "malkUtkEN" %} | "your (f\.pl.) kingdom" |
 | {% gal "malkUtEh" %} | "his kingdom"         | {% gal "malkUthON" %} | "their (m.) kingdom"    |
 | {% gal "malkUtah" %} | "her kingdom"         | {% gal "malkUthEN" %} | "their (f.) kingdom"    |
+
+
+## Irregular Suffixes
+
+Some words take on irregular suffixes. Such as:
+
+### *w* Infixes
+
+Several words take on a {% gal "U" %} infix between the singular stem and the Pronominal Suffix, such as {% gal ")ax" %} ("brother") and {% gal "xaM" %} ("father-in-law") which alters the 3rd Person Singular, and 1st Person Plural.
+
+| **Singular**       |                       |                      |                         |
+| -----------------: | :-------------------- | -------------------: | :---------------------- |
+| {% gal ")axI" %}   | "my brother"          | {% gal ")axUnAN" %}  | "our brother"           |
+| {% gal ")axUK" %}  | "your (m.s.) brother" | {% gal ")axUkON" %}  | "your (m\.pl.) brother" |
+| *(unattested)*     | "your (f.s.) brother" | *(unattested)*       | "your (f\.pl.) brother" |
+| {% gal ")axUI" %}  | "his brother"         | {% gal ")axUhON" %}  | "their (m.) brother"    |
+| {% gal ")axUh]" %} | "her brother"         | *(unattested)*       | "their (f.) brother"    |
+
+### *'av* - "Father"
+
+The word {% gal ")ab" %} ("father") is Declension H and also uses the {% gal "U" %} infix. However, in addition it simply uses the Definite form where one would expect the 1st Person Singular Pronominal Suffix, much like how one in English would ask "How is father doing?" (with the implication that they are talking about their own father).^[For example, שמעית אבא תני = "I heard (my) father learning." *Ter 42b(36)*, מה עבד אבא = "How is (my) father?" *BR 1142:2*, etc.]
+
+| **Singular**        |                      |                      |                        |
+| ------------------: | :------------------- | -------------------: | :--------------------- |
+| {% gal "):b>ah" %}  | "(my) father"        | {% gal "):b.UnAN" %} | "our father"           |
+| {% gal "):b.UK" %}  | "your (m.s.) father" | {% gal "):b.UkON" %} | "your (m\.pl.) father" |
+| *(unattested)*      | "your (f.s.) father" | {% gal "):b.UkEN" %} | "your (f\.pl.) father" |
+| {% gal "):b.UI" %}  | "his father"         | {% gal "):b.UhON" %} | "their (m.) father"    |
+| {% gal "):b.Uh]" %} | "her father"         | *(unattested)*       | "their (f.) father"    |
+| &nbsp; ||||
+| **Plural**             |                       |                         |                         |
+| {% gal "):b>ahatI" %}  | "my fathers"	         | {% gal "):b>ahataN" %}  | "our fathers"           |
+| {% gal "):b>ahataK" %} | "your (m.s.) fathers" | {% gal "):b>ahatkON" %} | "your (m\.pl.) fathers" |
+| *(unattested)*         | "your (f.s.) heads"   | *(unattested)*          | "your (f\.pl.) fathers" |
+| {% gal "):b>ahatEh" %} | "his fathers"         | {% gal "):b>ahathON" %} | "their (m.) fathers"    |
+| {% gal "):b>ahatah" %} | "her fathers"         | *(unattested)*          | "their (f.) fathers"    |

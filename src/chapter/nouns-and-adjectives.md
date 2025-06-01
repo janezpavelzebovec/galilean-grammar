@@ -179,7 +179,22 @@ Sometimes a single word's pattern follows one Declension in the Singular, but an
 
 Finally, some Nouns are simply odd and do not follow conventions.
 
-[[Examples to follow...]]
+### *'av* - "Father"
+
+The word {% gal ")ab" %} or "father" follows Declension H, but its Singular Construct form is {%gal "):b.E" %} and it has a {% gal "w" %} infix when it takes on [Pronominal Suffixes](chapter/possession/#pronominal-suffixes). See [*'av* - "Father"]() in that chapter for more.
+
+### *bər* - "Son"
+
+The word {% gal "b:r" %}^[Often spelled {% gal "bEr" %} to indicate *ə*.] or "son" becomes the suppletive {% gal "b:N" %} in the plural.
+
+| | | | | |
+| :------------ | ----------------: | :------------- | --------------------: | :----------- |
+| **Masculine** |                   | ***Singular*** |                       | ***Plural*** |
+| Absolute		| {% gal "b:r" %}   | *bər*          | {% gal "b:nIN" %}     | *bənin*      | 
+| Definite		| {% gal "b:rah" %} | *bərah*        | {% gal "b:nayyah" %}  | *bənayah*    | 
+| Construct		| {% gal "bar" %}   | *bar*          | {% gal "b:nE" %}      | *bəney*      |
+
+[[More examples to follow...]]
 
 ## Practice
 

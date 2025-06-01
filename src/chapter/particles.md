@@ -29,6 +29,9 @@ Out of all of the Proclitic Particles, *də-* is the most complex. It is a short
 3. As a **Conjunction**, as "that," "so that," "because" or "for."
 > {% gal "xamEt dan:pal" %}  *ḥaméṯ **da**nəfal* = "I saw **that** he fell".
 
+A formal title can be formed by coupling a Pronominal Suffix in reference to the next word with *də-*^[Commonly found on ossuaries and funerary inscriptions. The example given literally expresses "His brother, (that) of Jesus."], such as:
+> {% gal ")axUI dAy;$U(a" %} *'aḥ**ui** **da**yəšua`* = "**The** Brother **of** Jesus."
+
 ## With Pronominal Suffixes
 
 Out of the Proclitic Particles, only {% gal "l:-" %} and {% gal "b:-" %} can take on Pronominal Suffixes. The others are only found affixed to Nouns, Pronouns, and Verbs.

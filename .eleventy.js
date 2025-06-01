@@ -30,6 +30,17 @@ module.exports = function (eleventyConfig) {
 	//Ignore output directory
 	eleventyConfig.ignores.add("_site");
 
+	//Add articles collection
+	eleventyConfig.addCollection("articles", function (collectionApi) {
+		return collectionApi.getFilteredByGlob("./src/articles/*/index.md");
+		/*
+		.sort(function (a, b) {
+			//return a.date - b.date; // sort by date - ascending
+			return b.date - a.date; // sort by date - descending
+		});
+		*/
+	});
+
 	return {
 		markdownTemplateEngine: "njk",
    		htmlTemplateEngine: "njk",

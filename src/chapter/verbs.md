@@ -151,7 +151,7 @@ The form {% gal "n:XXOX" %} to express the 1st Person Singular is unique to Pale
 
 | | |
 | :-----------------------------------: | :---------------------------------: |
-| {% gal "$lx$" %} <small>(a,a)</small> | {% gal "dmK" %} <small>(a,e)<small> |
+| {% gal "$lx" %} <small>(a,a)</small>  | {% gal "dmK" %} <small>(a,e)<small> |
 | "to send"                             | "to sleep"                          |
 | &nbsp; | |
 | {% gal "$bq" %} <small>(a,o)</small>  | {% gal "ptr" %} <small>(a,a)</small> |
@@ -471,9 +471,9 @@ These verbs have the same letter for their second and last radicals.
 
 | Past		     | Singular               |              | Plural                |              |
 | :------------- | :--------------------: | :----------: | :-------------------: | :----------: |
-| 1st Com.       | {% gal "kat.bEt" %}    | *kattəvéṯ*   | {% gal "kat.EbnaN" %} | *kəṯávnan*   |
-| 2nd Com.       | {% gal "kat.Ebt" %}    | *kattévt*    | {% gal "kat.EbtON" %} | *kəṯávton*   |
-| 3rd Masc.      | {% gal "kat.Eb" %}     | *kattév*     | {% gal "kat.bUN" %}   | *kəṯávun*    |
+| 1st Com.       | {% gal "kat.bEt" %}    | *kattəvéṯ*   | {% gal "kat.EbnaN" %} | *kattévnan*  |
+| 2nd Com.       | {% gal "kat.Ebt" %}    | *kattévt*    | {% gal "kat.EbtON" %} | *kattévton*  |
+| 3rd Masc.      | {% gal "kat.Eb" %}     | *kattév*     | {% gal "kat.bUN" %}   | *kattəvun*   |
 |                |                        |              | {% gal "kat.bU" %}    | *kattévu*    |
 | 3rd Fem.       | {% gal "kat.bat" %}    | *kattəváṯ*   | {% gal "kat.bEN" %}   | *kattəven*   |
 |                |                        |              | {% gal "kat.EbE" %}   | *kattéve*    |
@@ -486,7 +486,7 @@ These verbs have the same letter for their second and last radicals.
 | 2nd Masc.      | {% gal "t:kat.Eb" %}   | *təḵattév*   | {% gal "t:kat.bUN" %} | *təḵàttəvún* |
 | 2nd Fem.       | {% gal "t:kat.bEN" %}  | *təḵàttəvén* | ↑                     | ↑            |
 | 3rd Masc.      | {% gal "y;kat.Eb" %}   | *yəḵattév*   | {% gal "y;kat.bUN" %} | *yəḵàttəvún* |
-| 3rd Fem.       | {% gal "t:kat.Eb" %}   | *təḵattév*   | {% gal "t:kat.baN" %} | *təḵàttəván* |
+| 3rd Fem.       | {% gal "t:kat.Eb" %}   | *təḵattév*   | {% gal "y:kat.baN" %} | *yəḵàttəván* |
 | **Imperative** |                        |              |                       |              |
 | 2nd Masc.      | {% gal "kat.Eb" %}     | *kattév*     | {% gal "kat.EbUN" %}  | *kattévun*   |
 | 2nd Fem.       | {% gal "kat.EbI" %}    | *kattévi*    | ↑                     | ↑            |
@@ -505,7 +505,7 @@ These verbs have the same letter for their second and last radicals.
 | Past		     | Singular               |              | Plural                |              |
 | :------------- | :--------------------: | :----------: | :-------------------: | :----------: |
 | 1st Com.       | {% gal ")akt:bEt" %}   | *'aḵtəvéṯ*   | {% gal ")aktEbnaN" %} | *'aḵtévnan*  |
-| 2nd Com.       | {% gal ")aktEbt" %}    | *'aḵtévt*    | {% gal ")aktEbtUN" %} | *'aḵtévton*  |
+| 2nd Com.       | {% gal ")aktEbt" %}    | *'aḵtévt*    | {% gal ")aktEbtON" %} | *'aḵtévton*  |
 | 3rd Masc.      | {% gal ")aktEb" %}     | *'aḵtév*     | {% gal ")akt:bUN" %}  | *'aḵtəvún*   |
 |                |                        |              | {% gal "):ktEbU" %}   | *'əḵtévu*    |
 | 3rd Fem.       | {% gal ")akt:bat" %}   | *'aḵtəváṯ*   | {% gal ")akt:bEN" %}  | *'aḵtəvén*   |
@@ -567,7 +567,7 @@ As it was mentioned earlier, vowel reduction was beginning in Galilean Aramaic, 
 | 1st Com.       | {% gal "):tkat.bEt" %}  | *'əṯkattəvéṯ* | {% gal "):tkat>abnaN" %} | *'əṯkattávnan* |
 | 2nd Com.       | {% gal "):tkat>abt" %}  | *'əṯkattávt*  | {% gal "):tkat>abtON" %} | *'əṯkattávton* |
 | 3rd Masc.      | {% gal "):tkat>ab" %}   | *'əṯkattav*   | {% gal "):tkat>abUN" %}  | *'əṯkattávun*  |
-| 3rd Fem.       | {% gal "):tkat>ab" %}   | *'əṯkattəváṯ* | {% gal "):tkat>abEN" %}  | *'əṯkattáven*  |
+| 3rd Fem.       | {% gal "):tkat>abat" %} | *'əṯkattəváṯ* | {% gal "):tkat>abEN" %}  | *'əṯkattáven*  |
 | **Present**    |                         |               |                          |                |
 | Masc.          | {% gal "m:tkat>ab" %}   | *məṯkattáv*   | {% gal "m:tkat.bIN" %}   | *məṯkattəvín*  |
 | Fem.           | {% gal "m:tkat.bah" %}  | *məṯkattəváh* | {% gal "m:tkat.baN" %}   | *məṯkattəván*  |
@@ -594,12 +594,12 @@ Here, too, initial *šəwa* may sometimes lean towards *e*.
 | 1st Com.       | {% gal "):t>akt:bEt" %} | *'əttaḵtəvéṯ* | {% gal "):t>aktabnaN" %} | *'əttaḵtávnan* |
 | 2nd Com.       | {% gal "):t>aktabt" %}  | *'əttaḵtávt*  | {% gal "):t>aktabtON" %} | *'əttaḵtávton* |
 | 3rd Masc.      | {% gal "):t>aktab" %}   | *'əttaḵtav*   | {% gal "):t>aktabUN" %}  | *'əttaḵtávun*  |
-| 3rd Fem.       | {% gal "):t>aktab" %}   | *'əttaḵtəváṯ* | {% gal "):t>aktabEN" %}  | *'əttaḵtáven*  |
+| 3rd Fem.       | {% gal "):t>aktabat" %} | *'əttaḵtəváṯ* | {% gal "):t>aktabEN" %}  | *'əttaḵtáven*  |
 | **Present**    |                         |               |                          |                |
 | Masc.          | {% gal "m:t>aktab" %}   | *məttaḵtáv*   | {% gal "m:t>akt:bIN" %}  | *məttaḵtəvín*  |
 | Fem.           | {% gal "m:t>akt:bah" %} | *məttaḵtəváh* | {% gal "m:t>akt:baN" %}  | *məttaḵtəván*  |
 | **Future**     |                         |               |                          |                |
-| 1st Com.       | {% gal "):t>aktab" %}   | *'əttaḵtáv*   | {% gal "n:t>aktab" %}    | *nəṯkattáv*    |
+| 1st Com.       | {% gal "):t>aktab" %}   | *'əttaḵtáv*   | {% gal "n:t>aktab" %}    | *nəttaḵtáv*    |
 | 2nd Masc.      | {% gal "t:t>aktab" %}   | *təttaḵtáv*   | {% gal "t:t>kat:bUN" %}  | *təttaḵtəvún*  |
 | 2nd Fem.       | {% gal "t:t>akt:bEN" %} | *təttaḵtəbén* | ↑                        | ↑              |
 | 3rd Masc.      | {% gal "y;t>aktab" %}   | *yəttaḵtáv*   | {% gal "y;t>akt:bUN" %}  | *yəttaḵtəvún*  |
@@ -703,6 +703,10 @@ When combined with {% gal "l:-" %} + the appropriate Pronominal Suffix, we arriv
 To express the **Negative** ("does not have") one uses {% gal "lEt" %}^[Originally a combination of {% gal "la)" %} and {% gal ")It" %}.] (ex. {% gal "lEt lEh s:par" %} = "He doesn't have a book").
 
 To express the **Past** or **Future** of "to have" one uses {% gal "hwy" %} in the 3rd Person Singular (either {% gal "h:wwuN" %} or {% gal "y;hwwE" %}) + {% gal "l:-" %} and the appropriate Pronominal Suffix in similar fashion (ex. {% gal "h:wwuN lI" %} = "I had") and for the negative one precedes it with {% gal "la)" %}.
+
+### *yhb* - "To Give"
+
+The verb {% gal "yhb" %} becomes the suppletive {% gal "ntN" %}  in the Future and Infinitive of the *Pe`al* (and {% gal "ntN" %} is unused otherwise).
 
 
 ### Galilean Verbs of Note
