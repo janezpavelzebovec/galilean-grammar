@@ -240,3 +240,8 @@ footer {
     }
 
 }
+
+/* Fix images sloughing off the side */
+img {
+    max-width:100%;
+}

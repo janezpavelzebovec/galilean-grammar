@@ -47,7 +47,7 @@ Now, each these three Conjugations also have corresponding Passives:
 
 Each of these worked much like how the passive voice works in English, but with General Passive (ex. "to be walked"), Intensive Passive (ex. "to be run"), and Causative Passive (ex. "to be chased").
 
-The three Actives and three Passives make up the 6 most common Conjugational forms found in Aramaic languages. In many cases these distinctions still hold true in Galilean, but like with any language some verbs evolved into new or different shades of meaning, jumbling up activeness, passiveness, intensity, and causation. As such, each verb needs to be learned wits appropriate Conjugations and what each Conjugation means. There *are* also rarer Conjugations (*Po`el*, *Palpel*, and their Passives, etc.), but they are best learned as irregular verbs and memorized separately.
+The three Actives and three Passives make up the 6 most common Conjugational forms found in Aramaic languages. In many cases these distinctions still hold true in Galilean, but like with any language some verbs evolved into new or different shades of meaning, jumbling up activeness, passiveness, intensity, and causation. As such, each verb needs to be learned with its appropriate Conjugations and what each Conjugation means. There *are* also rarer Conjugations (*Po`el*, *Palpel*, and their Passives, etc.), but they are best learned as irregular verbs and memorized separately.
 
 ### Tense
 
@@ -113,7 +113,7 @@ Galilean verbs can also take on {% gal "E" %} where {% gal "Xa" %} appears on th
 | Masc. | {% gal "XaXEX" %}  | {% gal "XaX:XIN" %} |
 | Fem.  | {% gal "XaXXah" %} | {% gal "XaX:XaN" %} |
 
-The Present is formed by taking the base root and "declining" it like an Absolute Noun to match the Subject in both Gender and Number. Unlike Eastern Aramaic dialects where the subject usually *follows* the Present Verb, in Galilean it usually *precedes* it. For example: {% gal "hU)" %} katEb} *hu' kaṯév* = "He writes."
+The Present is formed by taking the base root and "declining" it like an Absolute Noun to match the Subject in both Gender and Number. Unlike Eastern Aramaic dialects where the subject usually *follows* the Present Verb, in Galilean it usually *precedes* it. For example: {% gal "hU) katEb" %} *hu' kaṯév* = "He writes."
 
 **Stem Vowel.** The most common by far is {% gal "E" %}. In cases where it falls around gutturals (such as with the common {% gal ")mr" %} "to say") we find {% gal "Xa" %}.
 

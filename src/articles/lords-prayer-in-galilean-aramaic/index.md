@@ -94,23 +94,23 @@ So below is the full prayer as found in the Gospel of Matthew, in an attempt to 
 
 | | | |
 | :-----------------------------: | :-----------------------: | :------------------------------: |
-| {% gal "):b.UnaN" %}            | *'əbbunan*                | Our Father,                      |
+| {% gal "):b.UnAN" %}            | *'əbbunan*                | Our Father,                      |
 | {% gal "d:ba$:myyah" %}         | *də-va-šəmayyah*          |  Who (art) in Heaven,            |
 | {% gal "y;tqad>a$ $:maK" %}     | *yəṯqaddaš šəmaḵ*         |  May thy name be holy.           |
 | {% gal "tEtE malk]UtaK" %}      | *teṯe malḵuṯaḵ*           | May thy kingdom come.            |
 | {% gal "t:hawwE rA(UtaK" %}     | *təhawe raˁuṯaḵ*          | May thy will be done.            |
 | {% gal "h:K mah d:ba$:myyah" %} | *həḵ də-va-šəmayyah*      | As (it is) in Heaven,            |
-| {% gal ")OP b:)ar(ah" %}        | *'of bə'arˁah*            | Also on Earth.                   |
+| {% gal ")OP b:)ar(ah" %}        | *'of bə-'arˁah*           | Also on Earth.                   |
 | {% gal "pIt.taN d:cOrAK" %}     | *pitṯan də-ṣoraḵ*         | Our needed bread,                |
 | {% gal "hab laN yOmad:N" %}     | *hav lan yomadən*         | Give us today.                   |
-| {% gal "wA$:bUq laN xObEnaN" %} | *wa-šəvuq lan ḥovenan*    | And forgive us our debts/sins,   |
+| {% gal "wA$:bUq laN xObEnAN" %} | *wa-šəvuq lan ḥovenan*    | And forgive us our debts/sins,   |
 | {% gal "hEK ):naN" %}           | *heḵ 'ənan*               | Just as we,                      |
-| {% gal "$:baqIN l:hayybEnaN" %} | *šəvaqin lə-ḥaivenan*     |  Forgive our debtors.            |
+| {% gal "$:baqIN l:hayybEnAN" %} | *šəvaqin lə-ḥaivenan*     |  Forgive our debtors.            |
 | {% gal "w;lA) ta(El laN" %}     | *wə-la' taˁel lan*        | And do not lead us,              | 
 | {% gal "l:nIsyON" %}            | *lə-nisyon*               |  To temptation.                  |
 | {% gal "):l>a) pacaN" %}        | *'əla'[^1] paçan*         | However deliver us,              |
 | {% gal "m:N bI$ah" %}           | *mən bišah*               |  From evil.[^2]                  |
-| {% gal "b:raM dIdaK hI)" %}     | *bəram diḏaḵ hi'*         | But yours is,                    |
+| {% gal "b:raM dIdAK hI)" %}     | *bəram diḏaḵ hi'*         | But yours is,                    |
 | {% gal "malk]Utah" %}           | *malḵuṯah*                |  The Kingdom,                    |
 | {% gal "w;xayylah" %}           | *wə-ḥailah*               |  And the Power,                  | 
 | {% gal "w;tU$baxtah" %}         | *wə-tušbaḥtah*[^3]        |  And the Glory.                  |

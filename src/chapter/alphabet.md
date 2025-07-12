@@ -15,7 +15,7 @@ Further developments took place under the Hasmonean and Herodian periods, arrivi
 | *'Əláf*   | {% gal ")" %} |               | '         | ə, a   |
 | *Beṯ*     | {% gal "b" %} |               | b         | ḇ/v    |
 | *Gəmál*   | {% gal "g" %} |               | g         | ḡ      |
-| *Dəláth*  | {% gal "d" %} |               | d         | ḏ      |
+| *Dəláṯ*   | {% gal "d" %} |               | d         | ḏ      |
 | *He*      | {% gal "h" %} |               | h         |        |
 | *Wau*     | {% gal "w" %} |               | w         | u, o   |
 | *Zai*     | {% gal "z" %} |               | z         |        |
@@ -33,7 +33,7 @@ Further developments took place under the Hasmonean and Herodian periods, arrivi
 | *Qof*     | {% gal "q" %} |               | q         |        |
 | *Reš*     | {% gal "r" %} |               | r         |        |
 | *Šin*     | {% gal "$" %} |               | š         |        |
-| *Šin*     | {% gal "&" %} |               | ś         |        |
+| *Śin*     | {% gal "&" %} |               | ś         |        |
 | *Tau*     | {% gal "t" %} |               | t         | ṯ      |
 
 "Form" indicates the base form for each letter in Herodian hand, where "Final" indicates how the letter looks when written at the end of a word. 

@@ -120,7 +120,7 @@ Nouns that end in vowels often have their vowels become consonantal in the Defin
 
 ## Declension I: III-y Nouns
 
-Many Feminine Nouns that end in \textit{y} have an Absolute that ends in {% gal "-I" %} but are otherwise identical to Declension Y, such as {% gal "margalI" %},{% gal "margalItah" %} (f-i) "pearl":
+Many Feminine Nouns that end in {% gal "y" %} have an Absolute that ends in {% gal "-I" %} but are otherwise identical to Declension Y, such as {% gal "margalI" %},{% gal "margalItah" %} (f-i) "pearl":
 
 | | | | | |
 | :------------ | ---------------------: | :------------- | -----------------------: | :------------ |
@@ -131,7 +131,7 @@ Many Feminine Nouns that end in \textit{y} have an Absolute that ends in {% gal 
 
 ## Declension W: III-w Nouns
 
-Virtually every Noun that ends in \textit{w} is Feminine and this ending tend to broaden and genericize the meaning their root in a similar manner to the English suffixes "-hood," "-dom," or "-ship." For example {% gal "m:lEK" %},{% gal "malkah" %} (m-c) "king" ⟶ {% gal "malk]U" %},{% gal "malk]Utah" %} (f-w) "kingdom":
+Virtually every Noun that ends in {% gal "w" %} is Feminine and this ending tend to broaden and genericize the meaning their root in a similar manner to the English suffixes "-hood," "-dom," or "-ship." For example {% gal "m:lEK" %},{% gal "malkah" %} (m-c) "king" ⟶ {% gal "malk]U" %},{% gal "malk]Utah" %} (f-w) "kingdom":
 
 | | | | | |
 | :------------ | --------------------: | :------------- | ----------------------: | :----------- |
@@ -142,7 +142,7 @@ Virtually every Noun that ends in \textit{w} is Feminine and this ending tend to
 
 ## Declension G: Gentillic Nouns
 
-This particular class of Nouns (and often Adjectives) ends with \textit{ai} and the endings change slightly to accommodate this, such as {% gal "y;hUdAyy" %},{% gal "y;hUdAyyah" %} (m-g) "Judean/Jew(ish)" and {% gal "y;hUdAyyah" %},{% gal "y;hUdAyytah" %} (f-g) "Jewess." They are not attested in the Construct state.
+This particular class of Nouns (and often Adjectives) ends with {% gal "-ayy" %} and the endings change slightly to accommodate this, such as {% gal "y;hUdAyy" %},{% gal "y;hUdAyyah" %} (m-g) "Judean/Jew(ish)" and {% gal "y;hUdAyyah" %},{% gal "y;hUdAyytah" %} (f-g) "Jewess." They are not attested in the Construct state.
 
 | | | | | |
 | :------------ | ----------------------: | :------------- | -----------------------: | :--------------- |
@@ -151,7 +151,7 @@ This particular class of Nouns (and often Adjectives) ends with \textit{ai} and 
 | Definite		| {% gal "y;hUdAyyah" %}  | *yəhuḏáiyah*   | {% gal "y;hUd)aE" %}     | *yəhuḏá'e*       | 
 | &nbsp;        |                         |                |                          |                  | 
 |**Feminine**   |            		      | ***Singular*** |                          | ***Plural***     |
-| Absolute		| {% gal "y;hUdAyya" %}   | *yəhuḏáiyah*   | {% gal "y;hUdAyyaN" %}   | *yəhuḏáiyan*     |
+| Absolute		| {% gal "y;hUdAyyah" %}  | *yəhuḏáiyah*   | {% gal "y;hUdAyyaN" %}   | *yəhuḏáiyan*     |
 | Definite		| {% gal "y;hUdAyytah" %} | *'yəhuḏáiṯah*  | {% gal "y;hUd;yyatah" %} | *yəhuḏəyáṯah*    | 
 
 [^6]: Variant: {% gal "yhwd)y" %}.
@@ -181,7 +181,7 @@ Finally, some Nouns are simply odd and do not follow conventions.
 
 ### *'av* - "Father"
 
-The word {% gal ")ab" %} or "father" follows Declension H, but its Singular Construct form is {%gal "):b.E" %} and it has a {% gal "w" %} infix when it takes on [Pronominal Suffixes](chapter/possession/#pronominal-suffixes). See [*'av* - "Father"]() in that chapter for more.
+The word {% gal ")ab" %} or "father" follows Declension H, but its Singular Construct form is {%gal "):b.E" %} and it has a {% gal "w" %} infix when it takes on [Pronominal Suffixes](/chapter/possession/#pronominal-suffixes). See [*'av* - "Father"](/chapter/possession/#'av---"father") in that chapter for more.
 
 ### *bər* - "Son"
 

@@ -35,6 +35,7 @@ An additional dedication of the modern version of this work is necessary. These 
 ## Pillars of the Community ({% gal "(mwdyyh" %})
 
 - Mark Wood
+- Daniel Doberstein
 
 ## Fellows ({% gal "xbryyh" %})
 
@@ -44,6 +45,7 @@ An additional dedication of the modern version of this work is necessary. These 
 
 ## One-Time Supporters
 
+ - Steven Childs
  - MADCreative
 
 
