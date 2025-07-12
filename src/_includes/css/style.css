@@ -92,6 +92,8 @@ main {
     color:white;
     position:sticky;
     top:0;
+    height: 100vh;
+    scrollbar-color: #777 #5555;
 
     display:flex;
     flex-direction:column;
@@ -109,7 +111,8 @@ main {
     color:white;
 }
 #parts {
-    overflow:scroll;
+    overflow:auto;
+    padding-right:1em;
 }
 
 #hamburger {
@@ -238,6 +241,7 @@ footer {
 
 }
 
+/* Fix images sloughing off the side */
 img {
     max-width:100%;
 }
